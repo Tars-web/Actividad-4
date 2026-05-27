@@ -1,0 +1,1001 @@
+ID_Estudiante,Año_Ingreso,Estado,Promedio,Créditos_Matriculados,Facultad,Programa,Edad,Género,Becado,Actividades_Extracurriculares
+1,2021,Retirado,4.15,23,Ciencias Sociales,Literatura,31,No especificado,False,Academia
+2,2022,Matriculado,2.22,6,Ciencias,Artes Visuales,33,No especificado,False,Arte
+3,2020,Matriculado,2.21,22,Ciencias Sociales,Literatura,19,Masculino,False,Deporte
+4,2022,Retirado,2.04,18,Arte,Biología,29,Femenino,False,Ninguna
+5,2022,Matriculado,4.87,26,Arte,Biología,31,Masculino,False,Deporte
+6,2019,Matriculado,4.21,6,Humanidades,Biología,23,Masculino,True,Ninguna
+7,2020,Matriculado,3.06,4,Humanidades,Artes Visuales,30,No especificado,False,Arte
+8,2020,Matriculado,2.89,12,Ingeniería,Biología,21,No especificado,False,Academia
+9,2020,Matriculado,3.05,19,Arte,Ingeniería de Sistemas,29,Masculino,False,Arte
+10,2022,Matriculado,4.32,29,Humanidades,Biología,25,Femenino,False,Deporte
+11,2021,Retirado,3.98,27,Ciencias Sociales,Literatura,24,Masculino,False,Ninguna
+12,2020,Retirado,2.56,29,Ciencias,Literatura,33,Masculino,False,Deporte
+13,2022,Matriculado,2.52,2,Ciencias Sociales,Literatura,23,Femenino,False,Academia
+14,2019,Matriculado,2.3,17,Ciencias,Artes Visuales,28,Masculino,False,Arte
+15,2021,Retirado,3.98,11,Humanidades,Literatura,22,Masculino,True,Deporte
+16,2019,Retirado,4.29,11,Ingeniería,Artes Visuales,33,No especificado,True,Deporte
+17,2021,Matriculado,2.8,21,Ciencias Sociales,Artes Visuales,24,Femenino,False,Academia
+18,2022,Retirado,2.06,16,Ciencias Sociales,Biología,22,No especificado,False,Ninguna
+19,2018,Retirado,2.25,2,Ciencias Sociales,Ingeniería de Sistemas,28,No especificado,False,Deporte
+20,2021,Matriculado,4.9,2,Ciencias,Biología,32,Femenino,False,Academia
+21,2019,Matriculado,2.89,23,Humanidades,Biología,20,Femenino,False,Ninguna
+22,2022,Matriculado,4.31,8,Ciencias Sociales,Artes Visuales,22,Masculino,False,Ninguna
+23,2021,Matriculado,3.87,13,Ciencias Sociales,Artes Visuales,22,No especificado,True,Arte
+24,2018,Matriculado,3.15,10,Ingeniería,Literatura,26,Femenino,True,Academia
+25,2018,Retirado,2.62,8,Ingeniería,Literatura,32,No especificado,False,Ninguna
+26,2020,Matriculado,2.36,4,Humanidades,Biología,20,No especificado,True,Arte
+27,2020,Matriculado,3.85,15,Humanidades,Ciencias Políticas,23,Femenino,False,Voluntariado
+28,2019,Matriculado,4.32,1,Arte,Ciencias Políticas,34,Masculino,False,Academia
+29,2021,Matriculado,3.93,11,Ingeniería,Literatura,25,No especificado,False,Voluntariado
+30,2021,Retirado,3.59,7,Arte,Ciencias Políticas,28,Femenino,True,Ninguna
+31,2020,Matriculado,2.13,17,Ciencias,Literatura,23,Masculino,False,Academia
+32,2021,Matriculado,4.91,27,Arte,Artes Visuales,25,No especificado,False,Arte
+33,2021,Matriculado,4.4,20,Ciencias Sociales,Biología,27,Femenino,False,Ninguna
+34,2018,Matriculado,2.88,24,Arte,Ingeniería de Sistemas,20,No especificado,False,Academia
+35,2020,Matriculado,4.94,18,Humanidades,Biología,31,Femenino,True,Academia
+36,2022,Matriculado,3.81,22,Ciencias,Literatura,31,Femenino,False,Voluntariado
+37,2020,Matriculado,3.75,29,Ciencias Sociales,Literatura,27,No especificado,False,Ninguna
+38,2022,Matriculado,4.24,22,Arte,Biología,29,No especificado,False,Arte
+39,2018,Matriculado,4.44,12,Ciencias,Literatura,23,Femenino,False,Arte
+40,2019,Matriculado,3.97,9,Ciencias,Ciencias Políticas,29,Masculino,False,Ninguna
+41,2021,Retirado,2.38,5,Ciencias Sociales,Ciencias Políticas,31,No especificado,True,Ninguna
+42,2018,Matriculado,3.01,10,Arte,Literatura,19,Femenino,False,Deporte
+43,2021,Matriculado,4.78,4,Ciencias,Literatura,26,Femenino,False,Voluntariado
+44,2019,Matriculado,2.67,5,Ciencias,Ciencias Políticas,27,Masculino,False,Ninguna
+45,2019,Matriculado,3.12,28,Ingeniería,Literatura,34,Masculino,False,Ninguna
+46,2018,Matriculado,3.3,28,Ciencias,Literatura,34,Masculino,False,Deporte
+47,2019,Matriculado,3.32,10,Ingeniería,Biología,20,No especificado,False,Deporte
+48,2022,Retirado,3.84,11,Arte,Ingeniería de Sistemas,18,Femenino,True,Academia
+49,2019,Matriculado,4.83,21,Arte,Ciencias Políticas,29,Femenino,False,Arte
+50,2021,Matriculado,2.72,24,Arte,Biología,24,Femenino,False,Voluntariado
+51,2021,Matriculado,2.36,10,Humanidades,Ingeniería de Sistemas,21,Masculino,False,Academia
+52,2021,Retirado,2.59,28,Arte,Literatura,27,Femenino,False,Ninguna
+53,2021,Matriculado,4.66,8,Ciencias,Literatura,30,No especificado,False,Deporte
+54,2022,Matriculado,3.94,2,Ciencias Sociales,Biología,19,Masculino,False,Arte
+55,2020,Matriculado,2.86,23,Ingeniería,Literatura,27,Masculino,False,Academia
+56,2018,Matriculado,4.45,8,Humanidades,Artes Visuales,21,Masculino,False,Arte
+57,2021,Matriculado,4.58,16,Arte,Biología,22,Masculino,False,Deporte
+58,2019,Retirado,4.54,27,Arte,Ingeniería de Sistemas,19,No especificado,False,Academia
+59,2021,Matriculado,4.76,22,Ciencias Sociales,Biología,29,Femenino,False,Academia
+60,2019,Matriculado,2.76,5,Ciencias Sociales,Ciencias Políticas,34,No especificado,True,Arte
+61,2019,Matriculado,4.27,27,Humanidades,Biología,27,Femenino,False,Deporte
+62,2021,Matriculado,3.38,25,Ingeniería,Literatura,19,No especificado,False,Ninguna
+63,2022,Matriculado,4.53,29,Arte,Literatura,23,Masculino,True,Academia
+64,2019,Matriculado,4.19,3,Humanidades,Artes Visuales,25,Masculino,False,Ninguna
+65,2019,Matriculado,4.33,12,Ciencias,Artes Visuales,28,No especificado,False,Deporte
+66,2021,Matriculado,3.97,13,Ciencias,Artes Visuales,29,No especificado,False,Academia
+67,2019,Matriculado,2.53,13,Humanidades,Ingeniería de Sistemas,26,Femenino,False,Academia
+68,2019,Matriculado,3.64,10,Arte,Artes Visuales,19,No especificado,True,Ninguna
+69,2021,Matriculado,4.95,4,Humanidades,Ingeniería de Sistemas,25,No especificado,False,Voluntariado
+70,2021,Matriculado,4.81,9,Arte,Artes Visuales,28,Femenino,False,Ninguna
+71,2018,Matriculado,2.13,22,Ciencias Sociales,Ingeniería de Sistemas,21,Femenino,False,Ninguna
+72,2022,Matriculado,2.49,24,Humanidades,Biología,27,Femenino,False,Voluntariado
+73,2022,Retirado,2.4,23,Arte,Biología,33,No especificado,False,Deporte
+74,2019,Retirado,4.18,27,Humanidades,Literatura,25,Femenino,False,Deporte
+75,2022,Matriculado,4.45,2,Humanidades,Ingeniería de Sistemas,21,Masculino,False,Academia
+76,2019,Matriculado,2.64,19,Arte,Ciencias Políticas,27,Masculino,False,Arte
+77,2018,Matriculado,3.52,1,Arte,Literatura,29,Masculino,False,Arte
+78,2021,Matriculado,4.52,25,Ingeniería,Biología,31,No especificado,True,Academia
+79,2021,Matriculado,4.2,29,Humanidades,Ingeniería de Sistemas,33,Masculino,True,Arte
+80,2021,Matriculado,3.63,7,Ciencias,Artes Visuales,29,No especificado,False,Ninguna
+81,2022,Matriculado,3.77,17,Humanidades,Ciencias Políticas,24,No especificado,False,Ninguna
+82,2018,Matriculado,3.53,3,Humanidades,Biología,24,Masculino,False,Voluntariado
+83,2022,Matriculado,2.89,20,Arte,Literatura,26,Femenino,True,Voluntariado
+84,2022,Matriculado,3.7,20,Humanidades,Ingeniería de Sistemas,18,No especificado,True,Academia
+85,2018,Matriculado,4.07,21,Humanidades,Ciencias Políticas,23,Masculino,False,Academia
+86,2018,Matriculado,4.62,3,Ciencias,Ingeniería de Sistemas,23,No especificado,False,Academia
+87,2018,Matriculado,3.91,3,Arte,Artes Visuales,29,Femenino,False,Ninguna
+88,2018,Matriculado,4.28,17,Humanidades,Literatura,29,Femenino,False,Arte
+89,2021,Matriculado,2.48,7,Ciencias Sociales,Ingeniería de Sistemas,27,Masculino,False,Academia
+90,2020,Matriculado,3.38,27,Ingeniería,Biología,23,No especificado,False,Academia
+91,2020,Matriculado,2.03,26,Ciencias,Literatura,34,No especificado,False,Ninguna
+92,2018,Matriculado,2.74,14,Humanidades,Biología,23,No especificado,False,Ninguna
+93,2020,Matriculado,4.18,17,Ciencias Sociales,Ingeniería de Sistemas,27,No especificado,False,Ninguna
+94,2020,Matriculado,4.98,18,Humanidades,Literatura,25,Masculino,False,Arte
+95,2018,Matriculado,2.3,13,Humanidades,Biología,23,Femenino,True,Academia
+96,2020,Retirado,3.2,20,Arte,Artes Visuales,24,Masculino,False,Deporte
+97,2022,Retirado,4.4,29,Arte,Artes Visuales,18,No especificado,False,Deporte
+98,2019,Matriculado,2.61,20,Arte,Ingeniería de Sistemas,29,No especificado,False,Academia
+99,2019,Matriculado,3.67,21,Ciencias Sociales,Literatura,33,Femenino,True,Academia
+100,2018,Matriculado,4.2,27,Humanidades,Ciencias Políticas,27,No especificado,False,Academia
+101,2021,Matriculado,3.85,18,Ingeniería,Literatura,27,Masculino,False,Academia
+102,2018,Retirado,2.56,4,Ciencias,Artes Visuales,31,Masculino,False,Arte
+103,2021,Matriculado,3.07,1,Arte,Biología,27,Femenino,False,Deporte
+104,2019,Matriculado,4.35,18,Arte,Ciencias Políticas,27,Masculino,False,Voluntariado
+105,2018,Matriculado,3.66,1,Humanidades,Ingeniería de Sistemas,28,Masculino,False,Deporte
+106,2022,Matriculado,2.02,26,Humanidades,Ciencias Políticas,19,Masculino,False,Deporte
+107,2020,Matriculado,4.28,26,Ciencias Sociales,Ingeniería de Sistemas,25,Masculino,False,Ninguna
+108,2021,Matriculado,2.11,13,Ciencias Sociales,Ciencias Políticas,24,No especificado,False,Academia
+109,2020,Matriculado,4.24,20,Arte,Ingeniería de Sistemas,25,Masculino,False,Academia
+110,2020,Retirado,2.61,20,Humanidades,Ingeniería de Sistemas,18,Femenino,False,Academia
+111,2018,Retirado,4.87,23,Ingeniería,Ciencias Políticas,19,Femenino,False,Ninguna
+112,2020,Matriculado,3.1,10,Ciencias,Ciencias Políticas,32,Masculino,False,Arte
+113,2022,Matriculado,2.98,27,Humanidades,Ingeniería de Sistemas,18,Femenino,False,Arte
+114,2020,Matriculado,2.45,11,Humanidades,Artes Visuales,22,Masculino,False,Voluntariado
+115,2018,Matriculado,2.92,9,Ciencias Sociales,Ciencias Políticas,19,Femenino,False,Arte
+116,2022,Matriculado,4.63,9,Ciencias,Literatura,20,Femenino,False,Arte
+117,2019,Matriculado,4.99,5,Arte,Biología,31,Masculino,False,Academia
+118,2020,Matriculado,3.1,26,Humanidades,Ingeniería de Sistemas,25,Masculino,False,Deporte
+119,2018,Matriculado,3.35,1,Arte,Ingeniería de Sistemas,29,No especificado,False,Arte
+120,2019,Matriculado,4.17,17,Humanidades,Biología,27,Masculino,True,Arte
+121,2019,Matriculado,4.66,22,Arte,Artes Visuales,34,Masculino,False,Ninguna
+122,2021,Retirado,3.78,2,Ciencias,Biología,28,No especificado,False,Voluntariado
+123,2022,Matriculado,3.17,24,Ciencias Sociales,Ciencias Políticas,19,Masculino,False,Ninguna
+124,2020,Matriculado,3.24,13,Ciencias,Biología,21,Masculino,False,Academia
+125,2018,Retirado,4.09,9,Ingeniería,Ingeniería de Sistemas,18,No especificado,False,Deporte
+126,2021,Matriculado,2.01,29,Ciencias Sociales,Biología,32,Masculino,True,Voluntariado
+127,2022,Retirado,3.86,4,Ciencias,Literatura,30,Masculino,False,Ninguna
+128,2021,Matriculado,3.07,5,Ingeniería,Ciencias Políticas,25,No especificado,False,Arte
+129,2022,Matriculado,4.38,11,Humanidades,Biología,21,No especificado,False,Arte
+130,2022,Matriculado,2.28,24,Humanidades,Ingeniería de Sistemas,27,Femenino,False,Voluntariado
+131,2020,Matriculado,3.76,19,Arte,Ciencias Políticas,22,Masculino,True,Arte
+132,2022,Matriculado,3.44,21,Ciencias Sociales,Ingeniería de Sistemas,33,Femenino,False,Ninguna
+133,2021,Matriculado,3.93,3,Humanidades,Artes Visuales,18,Femenino,False,Ninguna
+134,2022,Matriculado,2.19,12,Ciencias Sociales,Literatura,29,No especificado,False,Arte
+135,2020,Matriculado,3.74,26,Humanidades,Artes Visuales,19,Masculino,True,Arte
+136,2020,Retirado,3.68,19,Arte,Literatura,25,Masculino,False,Academia
+137,2021,Retirado,3.68,19,Ciencias,Biología,33,No especificado,True,Deporte
+138,2019,Matriculado,3.81,13,Arte,Ciencias Políticas,22,Femenino,False,Voluntariado
+139,2019,Matriculado,4.03,28,Ingeniería,Biología,30,No especificado,False,Ninguna
+140,2022,Matriculado,4.41,7,Humanidades,Literatura,20,Masculino,False,Voluntariado
+141,2018,Matriculado,2.81,15,Ingeniería,Literatura,25,No especificado,False,Academia
+142,2022,Retirado,4.48,23,Ingeniería,Literatura,29,Masculino,False,Ninguna
+143,2021,Matriculado,3.49,7,Ciencias Sociales,Ingeniería de Sistemas,19,Femenino,False,Academia
+144,2021,Matriculado,2.23,26,Humanidades,Ciencias Políticas,28,Masculino,True,Academia
+145,2021,Matriculado,2.18,8,Ingeniería,Biología,29,Femenino,False,Arte
+146,2021,Matriculado,3.0,5,Ciencias,Biología,30,Femenino,False,Voluntariado
+147,2021,Matriculado,4.35,21,Ingeniería,Artes Visuales,22,Masculino,True,Voluntariado
+148,2020,Retirado,4.12,14,Ciencias,Literatura,29,Masculino,False,Arte
+149,2019,Matriculado,4.37,4,Ciencias Sociales,Literatura,19,Femenino,False,Voluntariado
+150,2021,Matriculado,3.55,23,Ingeniería,Literatura,22,No especificado,True,Arte
+151,2018,Matriculado,3.32,10,Arte,Biología,24,Masculino,True,Ninguna
+152,2018,Retirado,2.44,20,Ciencias Sociales,Artes Visuales,29,Femenino,False,Academia
+153,2018,Retirado,2.98,15,Ciencias,Ingeniería de Sistemas,33,Femenino,False,Academia
+154,2018,Matriculado,3.3,18,Ciencias Sociales,Ciencias Políticas,25,No especificado,False,Voluntariado
+155,2020,Matriculado,2.27,20,Ingeniería,Ingeniería de Sistemas,26,Masculino,False,Deporte
+156,2018,Matriculado,2.66,13,Humanidades,Biología,32,Femenino,False,Academia
+157,2021,Matriculado,3.79,29,Humanidades,Literatura,22,No especificado,True,Arte
+158,2022,Retirado,4.21,8,Ciencias,Ciencias Políticas,30,Femenino,False,Deporte
+159,2018,Matriculado,5.0,9,Ciencias,Biología,22,Masculino,False,Deporte
+160,2020,Matriculado,4.8,16,Humanidades,Biología,28,No especificado,False,Academia
+161,2020,Matriculado,3.93,19,Ciencias,Biología,27,Femenino,False,Academia
+162,2018,Matriculado,3.26,16,Ciencias Sociales,Ciencias Políticas,30,No especificado,False,Academia
+163,2022,Matriculado,3.91,7,Arte,Ciencias Políticas,26,Masculino,True,Arte
+164,2018,Matriculado,4.36,14,Arte,Artes Visuales,31,No especificado,True,Deporte
+165,2020,Matriculado,2.36,28,Ciencias Sociales,Artes Visuales,32,Masculino,False,Voluntariado
+166,2019,Matriculado,3.23,14,Arte,Ingeniería de Sistemas,27,Femenino,False,Arte
+167,2021,Matriculado,4.52,25,Ingeniería,Ciencias Políticas,24,Masculino,False,Ninguna
+168,2020,Matriculado,3.15,27,Ciencias Sociales,Ciencias Políticas,25,Femenino,False,Academia
+169,2018,Matriculado,3.72,4,Ciencias,Ciencias Políticas,20,Femenino,False,Deporte
+170,2021,Matriculado,3.76,26,Ciencias Sociales,Artes Visuales,32,Masculino,False,Arte
+171,2018,Matriculado,2.55,15,Humanidades,Biología,33,Femenino,True,Ninguna
+172,2018,Matriculado,3.09,3,Ciencias,Literatura,21,No especificado,True,Arte
+173,2019,Matriculado,3.0,5,Humanidades,Artes Visuales,23,Femenino,False,Arte
+174,2021,Matriculado,2.08,1,Ciencias,Ciencias Políticas,18,Masculino,False,Voluntariado
+175,2021,Matriculado,2.07,3,Arte,Artes Visuales,21,No especificado,False,Voluntariado
+176,2019,Retirado,4.5,15,Ciencias Sociales,Ingeniería de Sistemas,28,No especificado,False,Arte
+177,2020,Matriculado,2.82,24,Ingeniería,Ciencias Políticas,29,Femenino,False,Ninguna
+178,2018,Matriculado,3.55,27,Ciencias,Ingeniería de Sistemas,22,Femenino,False,Deporte
+179,2022,Matriculado,2.9,8,Ciencias,Ciencias Políticas,33,Masculino,False,Deporte
+180,2018,Matriculado,4.82,29,Humanidades,Artes Visuales,30,No especificado,True,Academia
+181,2018,Matriculado,2.78,4,Arte,Biología,30,Masculino,False,Academia
+182,2020,Matriculado,3.29,2,Humanidades,Literatura,34,Femenino,False,Deporte
+183,2018,Matriculado,4.62,29,Humanidades,Ingeniería de Sistemas,24,No especificado,True,Arte
+184,2019,Matriculado,4.53,24,Arte,Artes Visuales,25,Masculino,False,Arte
+185,2019,Matriculado,2.56,24,Ingeniería,Biología,30,Masculino,False,Voluntariado
+186,2021,Matriculado,4.41,10,Humanidades,Artes Visuales,33,Masculino,False,Voluntariado
+187,2022,Matriculado,3.37,4,Humanidades,Ingeniería de Sistemas,21,Masculino,False,Academia
+188,2018,Matriculado,3.45,3,Ciencias,Literatura,25,Masculino,False,Deporte
+189,2018,Matriculado,2.4,2,Arte,Artes Visuales,33,No especificado,True,Arte
+190,2020,Matriculado,2.24,25,Ciencias Sociales,Ciencias Políticas,27,Masculino,False,Deporte
+191,2019,Matriculado,4.18,17,Ingeniería,Biología,29,No especificado,False,Ninguna
+192,2022,Matriculado,3.49,23,Ingeniería,Artes Visuales,29,Masculino,False,Deporte
+193,2021,Matriculado,3.31,21,Arte,Biología,22,Femenino,False,Ninguna
+194,2019,Retirado,4.19,24,Ciencias,Ciencias Políticas,33,Femenino,False,Voluntariado
+195,2021,Matriculado,4.3,20,Ciencias,Literatura,18,Masculino,False,Voluntariado
+196,2020,Matriculado,2.48,23,Arte,Literatura,26,Femenino,False,Academia
+197,2020,Matriculado,3.83,13,Ciencias,Ciencias Políticas,29,No especificado,False,Deporte
+198,2018,Matriculado,2.41,5,Ingeniería,Biología,22,Masculino,False,Deporte
+199,2022,Matriculado,4.25,21,Ingeniería,Artes Visuales,20,No especificado,False,Ninguna
+200,2021,Matriculado,3.97,9,Ciencias Sociales,Ciencias Políticas,22,Masculino,False,Voluntariado
+201,2019,Retirado,4.87,25,Arte,Ingeniería de Sistemas,19,Femenino,False,Ninguna
+202,2020,Matriculado,2.21,29,Humanidades,Biología,31,No especificado,False,Voluntariado
+203,2018,Retirado,2.17,25,Humanidades,Literatura,19,Femenino,False,Ninguna
+204,2018,Matriculado,2.85,28,Ciencias Sociales,Ciencias Políticas,30,Femenino,False,Voluntariado
+205,2021,Matriculado,2.79,22,Ciencias Sociales,Literatura,24,Masculino,False,Ninguna
+206,2020,Matriculado,2.74,6,Ciencias,Biología,27,No especificado,False,Voluntariado
+207,2022,Retirado,4.72,5,Ciencias Sociales,Literatura,30,Femenino,False,Ninguna
+208,2020,Matriculado,2.75,25,Ciencias Sociales,Ciencias Políticas,33,Masculino,True,Deporte
+209,2021,Retirado,2.82,10,Humanidades,Biología,31,Masculino,False,Academia
+210,2021,Matriculado,4.28,8,Ciencias,Ingeniería de Sistemas,28,Masculino,True,Ninguna
+211,2020,Matriculado,3.35,7,Ciencias Sociales,Ciencias Políticas,27,Femenino,True,Academia
+212,2021,Retirado,4.33,7,Ciencias Sociales,Artes Visuales,23,Masculino,False,Deporte
+213,2020,Matriculado,2.2,6,Ciencias,Ciencias Políticas,21,No especificado,False,Deporte
+214,2019,Matriculado,3.46,21,Arte,Biología,18,No especificado,False,Voluntariado
+215,2020,Matriculado,2.1,29,Ciencias,Ciencias Políticas,24,Femenino,False,Academia
+216,2020,Retirado,2.19,20,Humanidades,Ingeniería de Sistemas,26,No especificado,False,Arte
+217,2021,Retirado,4.72,3,Arte,Ingeniería de Sistemas,25,Masculino,False,Voluntariado
+218,2021,Matriculado,2.42,19,Ingeniería,Artes Visuales,22,Femenino,False,Academia
+219,2018,Matriculado,3.6,22,Ciencias,Literatura,27,Masculino,False,Ninguna
+220,2018,Retirado,3.23,15,Humanidades,Biología,28,Femenino,False,Ninguna
+221,2019,Matriculado,3.04,4,Arte,Biología,32,Femenino,True,Deporte
+222,2018,Matriculado,4.7,28,Ciencias,Literatura,23,Masculino,True,Arte
+223,2020,Retirado,2.07,12,Ciencias Sociales,Ingeniería de Sistemas,32,No especificado,False,Ninguna
+224,2021,Matriculado,3.99,6,Ciencias,Ingeniería de Sistemas,22,No especificado,False,Academia
+225,2018,Matriculado,4.89,19,Ingeniería,Ciencias Políticas,27,Femenino,True,Academia
+226,2018,Matriculado,3.68,4,Ciencias,Artes Visuales,29,Masculino,False,Ninguna
+227,2019,Retirado,4.81,15,Arte,Artes Visuales,21,Masculino,False,Academia
+228,2019,Retirado,2.16,9,Arte,Artes Visuales,33,Femenino,False,Academia
+229,2020,Retirado,3.26,5,Ciencias,Ciencias Políticas,25,No especificado,False,Deporte
+230,2021,Matriculado,2.78,13,Arte,Artes Visuales,21,Masculino,False,Arte
+231,2019,Retirado,4.19,23,Ciencias Sociales,Literatura,29,No especificado,False,Deporte
+232,2018,Retirado,4.94,26,Ciencias,Ciencias Políticas,19,No especificado,False,Arte
+233,2021,Matriculado,2.77,18,Ciencias Sociales,Literatura,21,Femenino,False,Academia
+234,2021,Retirado,3.96,5,Ciencias Sociales,Ciencias Políticas,22,Femenino,False,Arte
+235,2018,Matriculado,2.59,25,Humanidades,Artes Visuales,20,No especificado,False,Academia
+236,2019,Matriculado,3.7,16,Ciencias,Literatura,26,Masculino,True,Academia
+237,2018,Matriculado,3.39,27,Arte,Literatura,28,Masculino,False,Deporte
+238,2021,Matriculado,4.92,19,Ciencias Sociales,Literatura,20,Femenino,False,Deporte
+239,2022,Matriculado,3.83,14,Humanidades,Ciencias Políticas,19,No especificado,False,Voluntariado
+240,2022,Matriculado,3.05,25,Ciencias,Biología,26,Masculino,False,Ninguna
+241,2020,Matriculado,2.34,16,Ciencias,Artes Visuales,31,Masculino,True,Voluntariado
+242,2018,Matriculado,2.45,27,Ingeniería,Literatura,21,Femenino,False,Voluntariado
+243,2018,Matriculado,2.68,15,Ingeniería,Biología,26,No especificado,False,Arte
+244,2020,Matriculado,2.75,22,Ciencias Sociales,Artes Visuales,30,Masculino,False,Academia
+245,2020,Matriculado,4.55,4,Ingeniería,Artes Visuales,32,Femenino,True,Academia
+246,2020,Matriculado,3.68,7,Ciencias Sociales,Literatura,27,Masculino,False,Academia
+247,2021,Matriculado,3.57,16,Arte,Literatura,33,Masculino,False,Ninguna
+248,2018,Matriculado,2.34,24,Ciencias Sociales,Ciencias Políticas,29,Masculino,True,Arte
+249,2021,Retirado,4.58,22,Ingeniería,Biología,22,Femenino,False,Arte
+250,2020,Matriculado,4.17,21,Arte,Biología,19,No especificado,False,Academia
+251,2018,Matriculado,2.2,22,Ingeniería,Literatura,27,Femenino,True,Voluntariado
+252,2021,Matriculado,4.12,21,Ciencias Sociales,Artes Visuales,18,No especificado,True,Ninguna
+253,2021,Retirado,3.63,8,Humanidades,Literatura,24,Masculino,True,Voluntariado
+254,2020,Matriculado,2.25,17,Ciencias,Artes Visuales,34,No especificado,False,Deporte
+255,2018,Retirado,3.37,16,Ingeniería,Artes Visuales,33,Masculino,True,Arte
+256,2020,Matriculado,3.45,27,Ciencias Sociales,Literatura,20,Masculino,False,Arte
+257,2018,Retirado,2.5,23,Arte,Ingeniería de Sistemas,31,Femenino,False,Voluntariado
+258,2022,Matriculado,4.84,10,Ingeniería,Biología,27,Masculino,False,Ninguna
+259,2019,Retirado,4.55,10,Ingeniería,Artes Visuales,24,Femenino,True,Arte
+260,2019,Matriculado,4.01,27,Ciencias,Artes Visuales,34,No especificado,False,Voluntariado
+261,2019,Matriculado,3.39,2,Ciencias Sociales,Ingeniería de Sistemas,23,No especificado,False,Ninguna
+262,2020,Matriculado,3.24,9,Humanidades,Ciencias Políticas,21,Masculino,False,Voluntariado
+263,2022,Matriculado,3.95,17,Arte,Ingeniería de Sistemas,34,Femenino,False,Ninguna
+264,2018,Matriculado,3.64,11,Ciencias Sociales,Ingeniería de Sistemas,26,Masculino,True,Academia
+265,2021,Retirado,2.19,10,Arte,Artes Visuales,21,Femenino,False,Ninguna
+266,2018,Retirado,3.54,22,Ingeniería,Biología,24,Femenino,False,Deporte
+267,2021,Matriculado,4.42,25,Ciencias,Ingeniería de Sistemas,19,Femenino,False,Academia
+268,2018,Matriculado,3.38,17,Ciencias,Ciencias Políticas,34,No especificado,False,Voluntariado
+269,2022,Matriculado,2.16,4,Humanidades,Literatura,25,Femenino,False,Academia
+270,2021,Matriculado,4.36,16,Ciencias,Ingeniería de Sistemas,32,No especificado,True,Academia
+271,2020,Matriculado,2.6,20,Ingeniería,Ingeniería de Sistemas,32,Femenino,False,Voluntariado
+272,2018,Matriculado,2.78,15,Humanidades,Ciencias Políticas,25,No especificado,False,Voluntariado
+273,2018,Matriculado,2.49,25,Ciencias Sociales,Biología,33,No especificado,True,Deporte
+274,2021,Matriculado,2.99,27,Ciencias,Ingeniería de Sistemas,28,No especificado,False,Voluntariado
+275,2020,Matriculado,4.27,21,Humanidades,Ingeniería de Sistemas,19,Masculino,False,Arte
+276,2020,Matriculado,3.56,5,Ingeniería,Biología,34,Femenino,False,Arte
+277,2022,Matriculado,2.61,6,Arte,Ciencias Políticas,33,Masculino,True,Deporte
+278,2020,Matriculado,4.63,17,Arte,Ingeniería de Sistemas,32,Femenino,False,Ninguna
+279,2020,Retirado,4.64,1,Ingeniería,Biología,30,Femenino,False,Ninguna
+280,2020,Matriculado,4.61,25,Ingeniería,Ingeniería de Sistemas,32,Masculino,False,Arte
+281,2019,Matriculado,2.72,19,Arte,Literatura,21,No especificado,True,Voluntariado
+282,2022,Matriculado,3.35,4,Humanidades,Artes Visuales,33,Femenino,False,Deporte
+283,2018,Matriculado,4.95,17,Arte,Literatura,29,No especificado,False,Ninguna
+284,2021,Retirado,4.32,9,Ingeniería,Ingeniería de Sistemas,21,Masculino,False,Ninguna
+285,2018,Matriculado,2.08,24,Ciencias,Ciencias Políticas,20,No especificado,False,Academia
+286,2022,Matriculado,2.2,2,Ciencias Sociales,Artes Visuales,34,Femenino,True,Arte
+287,2021,Matriculado,3.39,8,Ciencias,Literatura,34,Femenino,True,Voluntariado
+288,2022,Retirado,4.73,15,Ciencias,Biología,29,Femenino,False,Deporte
+289,2020,Retirado,3.62,7,Ingeniería,Ciencias Políticas,21,Masculino,False,Ninguna
+290,2021,Matriculado,3.49,27,Arte,Literatura,29,Femenino,False,Academia
+291,2020,Matriculado,2.32,6,Humanidades,Biología,32,Masculino,False,Arte
+292,2018,Matriculado,3.97,1,Ciencias,Ingeniería de Sistemas,33,No especificado,False,Arte
+293,2018,Retirado,4.47,15,Arte,Biología,22,Femenino,False,Deporte
+294,2021,Matriculado,3.14,23,Humanidades,Literatura,32,Femenino,False,Ninguna
+295,2021,Retirado,4.33,26,Ciencias,Literatura,34,Femenino,False,Deporte
+296,2022,Matriculado,4.89,7,Humanidades,Ingeniería de Sistemas,22,No especificado,False,Deporte
+297,2022,Matriculado,2.61,29,Arte,Biología,30,Femenino,False,Academia
+298,2020,Matriculado,3.57,25,Ciencias Sociales,Biología,30,Masculino,True,Arte
+299,2021,Matriculado,2.86,17,Arte,Ingeniería de Sistemas,31,No especificado,False,Voluntariado
+300,2018,Matriculado,4.38,2,Ingeniería,Biología,21,No especificado,False,Arte
+301,2022,Matriculado,3.73,27,Humanidades,Ingeniería de Sistemas,21,No especificado,False,Arte
+302,2022,Matriculado,3.9,9,Ciencias Sociales,Ciencias Políticas,30,No especificado,False,Academia
+303,2018,Matriculado,4.39,29,Humanidades,Literatura,29,No especificado,False,Voluntariado
+304,2022,Matriculado,3.19,9,Humanidades,Ciencias Políticas,24,Masculino,False,Ninguna
+305,2020,Matriculado,4.75,13,Ciencias,Artes Visuales,29,No especificado,False,Voluntariado
+306,2021,Retirado,3.6,6,Ingeniería,Artes Visuales,21,Femenino,False,Ninguna
+307,2018,Retirado,2.47,6,Humanidades,Artes Visuales,19,No especificado,True,Voluntariado
+308,2021,Retirado,4.09,20,Arte,Ingeniería de Sistemas,19,No especificado,False,Deporte
+309,2022,Retirado,4.38,20,Arte,Biología,22,No especificado,False,Voluntariado
+310,2022,Matriculado,2.95,21,Ciencias,Ciencias Políticas,27,No especificado,False,Academia
+311,2018,Matriculado,4.57,3,Ingeniería,Ciencias Políticas,27,No especificado,True,Ninguna
+312,2020,Matriculado,4.72,17,Ingeniería,Ciencias Políticas,26,Masculino,True,Arte
+313,2019,Matriculado,2.83,17,Arte,Ciencias Políticas,30,Masculino,False,Academia
+314,2018,Matriculado,4.95,12,Ciencias Sociales,Artes Visuales,24,No especificado,False,Ninguna
+315,2019,Retirado,2.42,16,Ciencias,Ciencias Políticas,22,Masculino,True,Ninguna
+316,2019,Matriculado,2.61,15,Ciencias,Biología,27,Femenino,False,Arte
+317,2020,Matriculado,2.55,13,Arte,Artes Visuales,27,No especificado,False,Deporte
+318,2019,Matriculado,4.68,23,Arte,Ciencias Políticas,23,Femenino,False,Academia
+319,2019,Matriculado,3.96,1,Ciencias Sociales,Ingeniería de Sistemas,25,Femenino,False,Arte
+320,2020,Matriculado,2.46,17,Ciencias Sociales,Literatura,18,No especificado,False,Arte
+321,2019,Matriculado,3.32,3,Ingeniería,Literatura,34,Femenino,False,Deporte
+322,2019,Retirado,3.85,26,Ciencias,Literatura,24,Femenino,False,Academia
+323,2019,Matriculado,2.25,15,Ciencias,Artes Visuales,31,Femenino,False,Arte
+324,2018,Matriculado,4.65,4,Arte,Ciencias Políticas,34,No especificado,False,Deporte
+325,2018,Retirado,4.41,4,Ingeniería,Artes Visuales,26,No especificado,True,Academia
+326,2018,Retirado,3.52,18,Ciencias,Biología,34,Femenino,False,Voluntariado
+327,2020,Retirado,4.9,17,Ingeniería,Ingeniería de Sistemas,22,No especificado,False,Ninguna
+328,2022,Retirado,3.25,19,Ingeniería,Ingeniería de Sistemas,25,No especificado,False,Deporte
+329,2019,Matriculado,4.95,11,Arte,Literatura,23,Femenino,False,Ninguna
+330,2019,Matriculado,4.0,20,Ingeniería,Literatura,28,No especificado,False,Voluntariado
+331,2020,Matriculado,3.9,3,Ciencias Sociales,Literatura,21,Masculino,True,Arte
+332,2019,Matriculado,2.5,8,Ciencias Sociales,Ciencias Políticas,18,No especificado,False,Arte
+333,2018,Matriculado,4.65,14,Humanidades,Biología,30,Masculino,False,Academia
+334,2022,Matriculado,3.28,26,Arte,Biología,31,Femenino,False,Deporte
+335,2021,Matriculado,2.49,1,Humanidades,Biología,18,No especificado,True,Deporte
+336,2019,Matriculado,2.04,14,Ciencias Sociales,Biología,28,Femenino,False,Academia
+337,2018,Matriculado,3.68,2,Humanidades,Literatura,34,Femenino,False,Ninguna
+338,2021,Matriculado,3.58,29,Arte,Ingeniería de Sistemas,21,Femenino,False,Arte
+339,2022,Matriculado,4.16,23,Arte,Literatura,29,Femenino,False,Arte
+340,2021,Matriculado,4.67,4,Ingeniería,Biología,27,Femenino,False,Deporte
+341,2018,Retirado,2.24,24,Ciencias,Literatura,23,No especificado,True,Deporte
+342,2021,Matriculado,4.19,27,Ingeniería,Biología,18,Masculino,False,Academia
+343,2020,Matriculado,2.56,29,Arte,Artes Visuales,24,No especificado,True,Voluntariado
+344,2021,Matriculado,4.57,19,Ciencias Sociales,Ingeniería de Sistemas,33,No especificado,False,Ninguna
+345,2019,Retirado,4.46,6,Ciencias Sociales,Artes Visuales,31,No especificado,False,Voluntariado
+346,2019,Matriculado,3.62,25,Ingeniería,Ciencias Políticas,23,No especificado,False,Voluntariado
+347,2020,Matriculado,4.13,1,Arte,Literatura,22,Masculino,False,Deporte
+348,2018,Matriculado,2.94,17,Ciencias Sociales,Ciencias Políticas,32,No especificado,False,Deporte
+349,2019,Matriculado,3.41,8,Arte,Literatura,23,Femenino,False,Deporte
+350,2022,Retirado,4.46,19,Ciencias Sociales,Artes Visuales,18,No especificado,False,Voluntariado
+351,2019,Matriculado,3.38,21,Arte,Biología,18,No especificado,False,Ninguna
+352,2019,Matriculado,3.07,1,Humanidades,Biología,30,Masculino,False,Deporte
+353,2018,Retirado,3.48,5,Arte,Literatura,20,Masculino,True,Arte
+354,2021,Retirado,4.48,27,Arte,Biología,27,Femenino,False,Ninguna
+355,2019,Matriculado,3.01,16,Ingeniería,Artes Visuales,20,No especificado,False,Arte
+356,2020,Retirado,2.52,6,Humanidades,Biología,26,No especificado,True,Ninguna
+357,2021,Matriculado,4.14,8,Ciencias,Artes Visuales,25,No especificado,False,Deporte
+358,2022,Matriculado,4.48,13,Ingeniería,Ciencias Políticas,20,Femenino,False,Academia
+359,2018,Matriculado,2.3,16,Ciencias,Artes Visuales,30,Masculino,True,Deporte
+360,2022,Matriculado,2.72,3,Ciencias Sociales,Ingeniería de Sistemas,23,Femenino,False,Voluntariado
+361,2021,Matriculado,2.43,19,Ciencias,Ingeniería de Sistemas,30,No especificado,False,Voluntariado
+362,2021,Retirado,3.04,12,Arte,Ingeniería de Sistemas,29,Masculino,False,Ninguna
+363,2021,Retirado,3.35,16,Ciencias,Literatura,30,Masculino,True,Voluntariado
+364,2022,Matriculado,4.25,27,Ingeniería,Literatura,19,Femenino,False,Deporte
+365,2021,Retirado,3.95,11,Ingeniería,Literatura,33,Masculino,False,Arte
+366,2022,Matriculado,3.86,10,Ciencias,Artes Visuales,23,Masculino,False,Deporte
+367,2021,Matriculado,3.06,25,Ingeniería,Literatura,30,No especificado,False,Ninguna
+368,2020,Matriculado,4.52,20,Ingeniería,Ciencias Políticas,34,No especificado,False,Voluntariado
+369,2021,Matriculado,3.41,4,Ciencias,Ingeniería de Sistemas,26,Masculino,False,Arte
+370,2022,Retirado,4.94,12,Humanidades,Artes Visuales,34,Masculino,False,Academia
+371,2019,Retirado,3.9,23,Humanidades,Ingeniería de Sistemas,19,Femenino,False,Arte
+372,2021,Matriculado,2.38,2,Ciencias Sociales,Literatura,24,Femenino,False,Arte
+373,2019,Matriculado,4.03,24,Ingeniería,Artes Visuales,27,Masculino,False,Deporte
+374,2020,Matriculado,2.98,22,Ciencias,Biología,27,No especificado,False,Academia
+375,2018,Matriculado,4.06,19,Ingeniería,Ciencias Políticas,26,Masculino,True,Ninguna
+376,2020,Retirado,2.21,25,Arte,Literatura,34,Masculino,False,Ninguna
+377,2021,Matriculado,2.52,5,Ingeniería,Literatura,32,No especificado,False,Arte
+378,2019,Matriculado,4.57,8,Ingeniería,Ciencias Políticas,19,No especificado,False,Arte
+379,2019,Matriculado,2.68,7,Humanidades,Ciencias Políticas,21,Femenino,False,Voluntariado
+380,2022,Matriculado,4.51,14,Ciencias,Biología,34,Femenino,True,Academia
+381,2019,Matriculado,2.84,24,Ingeniería,Literatura,22,Femenino,False,Arte
+382,2022,Matriculado,3.93,23,Humanidades,Literatura,24,Femenino,True,Voluntariado
+383,2018,Matriculado,4.08,3,Ciencias Sociales,Ingeniería de Sistemas,24,No especificado,False,Academia
+384,2021,Matriculado,3.54,18,Humanidades,Artes Visuales,34,Masculino,False,Ninguna
+385,2022,Retirado,2.92,16,Humanidades,Artes Visuales,24,Femenino,False,Voluntariado
+386,2018,Matriculado,2.64,23,Humanidades,Ingeniería de Sistemas,21,Femenino,False,Academia
+387,2019,Matriculado,2.1,19,Ingeniería,Artes Visuales,25,No especificado,False,Voluntariado
+388,2019,Retirado,2.91,19,Ingeniería,Ciencias Políticas,30,No especificado,False,Arte
+389,2018,Matriculado,3.96,18,Ciencias Sociales,Artes Visuales,21,Masculino,True,Deporte
+390,2019,Retirado,4.81,20,Arte,Artes Visuales,23,Masculino,True,Ninguna
+391,2018,Matriculado,4.61,16,Arte,Ingeniería de Sistemas,22,No especificado,False,Arte
+392,2022,Matriculado,4.3,8,Arte,Biología,29,Femenino,False,Arte
+393,2022,Matriculado,4.37,28,Ciencias Sociales,Artes Visuales,21,Femenino,False,Academia
+394,2018,Matriculado,3.99,1,Arte,Artes Visuales,26,Femenino,False,Voluntariado
+395,2022,Matriculado,2.78,17,Arte,Biología,21,Masculino,False,Ninguna
+396,2022,Matriculado,4.72,12,Humanidades,Ingeniería de Sistemas,31,Femenino,False,Arte
+397,2022,Matriculado,4.01,21,Ingeniería,Biología,22,Femenino,False,Academia
+398,2020,Matriculado,3.68,11,Ingeniería,Ingeniería de Sistemas,27,No especificado,True,Ninguna
+399,2021,Matriculado,2.33,5,Humanidades,Ciencias Políticas,29,Femenino,True,Voluntariado
+400,2019,Retirado,3.34,27,Humanidades,Ingeniería de Sistemas,34,No especificado,False,Arte
+401,2020,Retirado,3.38,12,Humanidades,Ciencias Políticas,28,Femenino,False,Arte
+402,2022,Retirado,4.59,17,Ingeniería,Ciencias Políticas,20,Masculino,False,Arte
+403,2018,Matriculado,3.64,6,Arte,Ingeniería de Sistemas,34,Femenino,True,Ninguna
+404,2022,Matriculado,3.14,1,Humanidades,Literatura,18,Femenino,False,Ninguna
+405,2021,Matriculado,4.93,5,Ciencias Sociales,Ingeniería de Sistemas,32,No especificado,False,Ninguna
+406,2022,Matriculado,2.33,25,Humanidades,Artes Visuales,26,No especificado,False,Ninguna
+407,2018,Matriculado,3.27,28,Ciencias,Artes Visuales,32,No especificado,False,Academia
+408,2021,Matriculado,2.13,14,Humanidades,Literatura,20,Femenino,False,Deporte
+409,2022,Matriculado,4.22,5,Ingeniería,Ciencias Políticas,30,Femenino,False,Academia
+410,2021,Matriculado,4.75,22,Humanidades,Literatura,29,Masculino,True,Arte
+411,2019,Matriculado,2.84,24,Ciencias,Artes Visuales,18,Femenino,True,Academia
+412,2019,Matriculado,4.58,27,Ciencias Sociales,Literatura,34,Masculino,False,Voluntariado
+413,2022,Matriculado,2.88,1,Arte,Ingeniería de Sistemas,30,No especificado,False,Ninguna
+414,2021,Retirado,4.73,18,Humanidades,Literatura,18,No especificado,False,Voluntariado
+415,2018,Matriculado,4.26,16,Ciencias,Ciencias Políticas,27,No especificado,False,Voluntariado
+416,2022,Matriculado,4.41,9,Ciencias,Ingeniería de Sistemas,32,Masculino,False,Arte
+417,2019,Matriculado,2.05,19,Ciencias Sociales,Biología,24,Femenino,True,Ninguna
+418,2019,Matriculado,4.89,22,Ingeniería,Artes Visuales,33,No especificado,False,Voluntariado
+419,2022,Matriculado,4.18,5,Humanidades,Artes Visuales,31,Femenino,False,Arte
+420,2021,Matriculado,2.91,27,Ciencias,Literatura,24,Femenino,False,Ninguna
+421,2019,Matriculado,4.49,2,Ciencias Sociales,Ingeniería de Sistemas,34,No especificado,False,Deporte
+422,2021,Matriculado,2.84,15,Arte,Biología,29,Masculino,False,Arte
+423,2019,Matriculado,4.62,7,Ciencias,Ingeniería de Sistemas,25,Femenino,True,Academia
+424,2019,Matriculado,2.34,4,Ciencias Sociales,Artes Visuales,19,No especificado,False,Ninguna
+425,2020,Retirado,4.11,1,Ingeniería,Ingeniería de Sistemas,24,Femenino,False,Voluntariado
+426,2019,Matriculado,3.62,13,Ingeniería,Biología,21,Femenino,False,Voluntariado
+427,2018,Matriculado,2.29,20,Ciencias,Literatura,23,Femenino,True,Academia
+428,2022,Retirado,2.73,22,Ciencias,Ciencias Políticas,26,Femenino,False,Academia
+429,2022,Matriculado,2.04,7,Humanidades,Ingeniería de Sistemas,26,Femenino,False,Voluntariado
+430,2021,Matriculado,3.41,15,Ciencias Sociales,Ciencias Políticas,31,Masculino,False,Ninguna
+431,2019,Matriculado,2.9,23,Ciencias,Artes Visuales,25,Masculino,False,Arte
+432,2018,Matriculado,3.8,14,Humanidades,Literatura,20,No especificado,False,Academia
+433,2021,Retirado,2.89,23,Humanidades,Literatura,22,Masculino,False,Academia
+434,2020,Matriculado,2.9,19,Ciencias,Ingeniería de Sistemas,31,Masculino,False,Academia
+435,2021,Retirado,4.23,22,Ingeniería,Literatura,21,Masculino,False,Deporte
+436,2021,Matriculado,2.14,29,Ciencias Sociales,Ingeniería de Sistemas,24,Femenino,True,Ninguna
+437,2019,Matriculado,4.71,24,Ciencias Sociales,Ingeniería de Sistemas,29,Femenino,False,Ninguna
+438,2020,Matriculado,4.56,20,Ingeniería,Ciencias Políticas,19,No especificado,False,Ninguna
+439,2021,Matriculado,4.0,29,Ciencias,Literatura,28,No especificado,True,Ninguna
+440,2018,Matriculado,3.78,24,Ciencias Sociales,Ingeniería de Sistemas,31,No especificado,False,Ninguna
+441,2018,Retirado,4.68,18,Ciencias,Ciencias Políticas,33,Femenino,False,Voluntariado
+442,2022,Matriculado,2.56,10,Ciencias,Biología,23,Masculino,False,Academia
+443,2020,Retirado,2.24,9,Humanidades,Ciencias Políticas,21,Masculino,False,Voluntariado
+444,2020,Matriculado,2.72,25,Ingeniería,Ciencias Políticas,32,Femenino,False,Deporte
+445,2022,Retirado,4.38,8,Ciencias,Ingeniería de Sistemas,18,No especificado,False,Arte
+446,2021,Matriculado,2.1,26,Arte,Artes Visuales,24,No especificado,False,Academia
+447,2020,Matriculado,3.75,29,Ingeniería,Artes Visuales,29,No especificado,False,Deporte
+448,2018,Retirado,4.99,10,Ciencias Sociales,Artes Visuales,27,Femenino,False,Voluntariado
+449,2018,Matriculado,4.57,17,Humanidades,Ciencias Políticas,22,No especificado,False,Arte
+450,2019,Matriculado,3.56,2,Ciencias Sociales,Ingeniería de Sistemas,29,No especificado,False,Deporte
+451,2020,Matriculado,2.19,6,Ciencias Sociales,Literatura,27,Femenino,False,Arte
+452,2021,Matriculado,4.49,26,Ingeniería,Ciencias Políticas,23,Masculino,False,Deporte
+453,2022,Retirado,3.8,5,Ciencias Sociales,Ciencias Políticas,29,Femenino,True,Voluntariado
+454,2022,Matriculado,2.34,28,Ciencias,Ingeniería de Sistemas,24,Femenino,False,Arte
+455,2021,Matriculado,2.28,9,Ciencias Sociales,Biología,19,Femenino,False,Deporte
+456,2019,Matriculado,4.73,5,Humanidades,Ciencias Políticas,27,Femenino,False,Voluntariado
+457,2022,Matriculado,4.01,18,Humanidades,Biología,32,Masculino,True,Academia
+458,2020,Matriculado,4.49,26,Arte,Biología,29,No especificado,False,Voluntariado
+459,2019,Matriculado,4.64,20,Humanidades,Artes Visuales,34,Femenino,False,Voluntariado
+460,2020,Matriculado,3.72,9,Ciencias Sociales,Ingeniería de Sistemas,21,Masculino,False,Academia
+461,2018,Matriculado,3.55,17,Humanidades,Biología,24,No especificado,False,Voluntariado
+462,2019,Matriculado,3.29,27,Ingeniería,Ingeniería de Sistemas,26,No especificado,False,Academia
+463,2022,Matriculado,2.95,17,Humanidades,Artes Visuales,24,No especificado,False,Academia
+464,2019,Matriculado,3.3,12,Ciencias,Ingeniería de Sistemas,19,Femenino,False,Academia
+465,2019,Matriculado,4.32,7,Ingeniería,Ciencias Políticas,23,Femenino,True,Deporte
+466,2019,Matriculado,3.81,27,Arte,Biología,23,No especificado,False,Arte
+467,2019,Matriculado,4.68,3,Ciencias,Ingeniería de Sistemas,30,No especificado,False,Deporte
+468,2020,Matriculado,3.33,10,Ciencias Sociales,Literatura,19,No especificado,False,Academia
+469,2018,Matriculado,3.82,2,Ciencias Sociales,Ingeniería de Sistemas,29,No especificado,False,Arte
+470,2021,Matriculado,3.89,25,Ciencias Sociales,Biología,32,No especificado,False,Arte
+471,2019,Matriculado,3.78,3,Ciencias,Artes Visuales,31,No especificado,False,Academia
+472,2022,Matriculado,4.11,16,Ciencias,Artes Visuales,23,Masculino,False,Arte
+473,2019,Matriculado,2.71,2,Ciencias,Biología,22,No especificado,False,Arte
+474,2022,Matriculado,3.54,28,Ingeniería,Ciencias Políticas,20,Femenino,True,Deporte
+475,2020,Matriculado,2.31,24,Ingeniería,Ciencias Políticas,20,Femenino,False,Arte
+476,2022,Retirado,3.15,10,Ciencias Sociales,Artes Visuales,27,Femenino,True,Academia
+477,2021,Matriculado,3.46,6,Humanidades,Artes Visuales,20,No especificado,False,Ninguna
+478,2018,Matriculado,3.96,22,Ciencias Sociales,Biología,29,Femenino,True,Ninguna
+479,2022,Matriculado,4.85,26,Arte,Ciencias Políticas,33,Masculino,True,Ninguna
+480,2022,Matriculado,3.8,11,Ingeniería,Artes Visuales,34,No especificado,False,Academia
+481,2018,Matriculado,4.23,23,Ciencias,Ciencias Políticas,24,Femenino,False,Ninguna
+482,2021,Retirado,3.52,7,Ingeniería,Artes Visuales,30,Masculino,False,Deporte
+483,2019,Matriculado,3.9,27,Ciencias,Ingeniería de Sistemas,19,Masculino,True,Academia
+484,2022,Matriculado,2.21,29,Arte,Literatura,21,Femenino,False,Academia
+485,2018,Matriculado,2.76,15,Arte,Ingeniería de Sistemas,27,Masculino,True,Academia
+486,2020,Matriculado,3.09,6,Ingeniería,Artes Visuales,24,Femenino,False,Arte
+487,2018,Matriculado,3.42,20,Ciencias,Literatura,34,Masculino,False,Arte
+488,2020,Matriculado,2.14,27,Arte,Literatura,23,No especificado,False,Arte
+489,2021,Matriculado,2.42,9,Ciencias Sociales,Artes Visuales,22,No especificado,False,Voluntariado
+490,2019,Matriculado,2.83,22,Ciencias Sociales,Artes Visuales,27,No especificado,False,Deporte
+491,2018,Matriculado,4.91,20,Ciencias,Ciencias Políticas,26,No especificado,False,Academia
+492,2022,Matriculado,2.99,12,Ingeniería,Artes Visuales,30,No especificado,False,Academia
+493,2021,Matriculado,3.45,19,Arte,Biología,23,Femenino,False,Arte
+494,2018,Matriculado,2.59,20,Ingeniería,Artes Visuales,21,No especificado,False,Academia
+495,2022,Matriculado,3.83,3,Ciencias Sociales,Biología,20,No especificado,True,Academia
+496,2018,Matriculado,2.84,15,Arte,Artes Visuales,20,No especificado,False,Ninguna
+497,2020,Matriculado,2.62,2,Ingeniería,Ciencias Políticas,21,No especificado,False,Academia
+498,2018,Matriculado,3.55,21,Humanidades,Biología,22,Masculino,False,Voluntariado
+499,2018,Retirado,2.02,2,Ciencias,Ingeniería de Sistemas,25,No especificado,True,Arte
+500,2018,Matriculado,2.02,22,Ciencias,Biología,33,No especificado,True,Deporte
+501,2021,Matriculado,2.66,3,Humanidades,Ciencias Políticas,20,Femenino,False,Deporte
+502,2018,Matriculado,2.11,6,Ciencias Sociales,Biología,29,Masculino,False,Ninguna
+503,2022,Matriculado,2.32,15,Arte,Artes Visuales,25,Femenino,True,Deporte
+504,2020,Matriculado,3.02,27,Ciencias,Artes Visuales,30,No especificado,False,Deporte
+505,2020,Matriculado,4.41,10,Humanidades,Ciencias Políticas,21,Femenino,False,Arte
+506,2018,Retirado,3.72,9,Humanidades,Literatura,31,Femenino,False,Arte
+507,2021,Matriculado,3.54,1,Ciencias Sociales,Artes Visuales,31,No especificado,True,Voluntariado
+508,2021,Matriculado,2.88,16,Ciencias Sociales,Ingeniería de Sistemas,30,Masculino,False,Ninguna
+509,2022,Matriculado,4.8,6,Ingeniería,Ciencias Políticas,23,Masculino,False,Deporte
+510,2018,Retirado,3.19,9,Ciencias,Biología,34,Femenino,True,Voluntariado
+511,2020,Matriculado,2.26,27,Ingeniería,Biología,21,No especificado,False,Ninguna
+512,2021,Retirado,3.85,4,Humanidades,Ingeniería de Sistemas,25,Femenino,False,Deporte
+513,2018,Matriculado,2.34,27,Arte,Artes Visuales,34,Femenino,False,Deporte
+514,2021,Retirado,3.04,28,Arte,Ciencias Políticas,20,Femenino,False,Arte
+515,2021,Matriculado,3.52,2,Ciencias Sociales,Ingeniería de Sistemas,34,No especificado,True,Academia
+516,2020,Retirado,4.62,29,Arte,Artes Visuales,26,No especificado,True,Ninguna
+517,2019,Matriculado,3.48,4,Arte,Ciencias Políticas,19,Masculino,False,Deporte
+518,2022,Retirado,4.11,1,Arte,Biología,30,No especificado,False,Ninguna
+519,2022,Matriculado,4.98,19,Humanidades,Ciencias Políticas,19,Femenino,False,Voluntariado
+520,2020,Matriculado,2.39,26,Arte,Literatura,28,Femenino,False,Voluntariado
+521,2021,Matriculado,2.82,25,Arte,Ciencias Políticas,32,Masculino,False,Academia
+522,2018,Matriculado,3.18,10,Arte,Literatura,28,No especificado,False,Deporte
+523,2021,Matriculado,3.27,21,Ingeniería,Ciencias Políticas,20,Femenino,True,Arte
+524,2020,Matriculado,3.23,15,Humanidades,Literatura,20,Masculino,False,Deporte
+525,2022,Matriculado,4.72,27,Ciencias Sociales,Biología,29,Masculino,False,Ninguna
+526,2021,Matriculado,4.14,22,Ingeniería,Artes Visuales,22,Femenino,False,Voluntariado
+527,2022,Retirado,3.82,19,Ciencias,Literatura,24,Femenino,True,Ninguna
+528,2018,Matriculado,2.93,16,Humanidades,Literatura,24,No especificado,False,Academia
+529,2022,Retirado,4.47,21,Humanidades,Biología,30,Masculino,False,Voluntariado
+530,2022,Matriculado,4.87,27,Ciencias,Literatura,26,Femenino,False,Arte
+531,2019,Matriculado,4.46,24,Ciencias,Ingeniería de Sistemas,30,Masculino,True,Voluntariado
+532,2019,Matriculado,2.0,22,Ciencias,Biología,29,No especificado,False,Deporte
+533,2019,Matriculado,3.91,4,Ciencias Sociales,Ingeniería de Sistemas,30,Femenino,False,Deporte
+534,2022,Matriculado,2.15,2,Arte,Biología,27,No especificado,False,Voluntariado
+535,2020,Matriculado,2.77,25,Humanidades,Literatura,18,Masculino,False,Academia
+536,2022,Matriculado,2.18,13,Arte,Ingeniería de Sistemas,25,No especificado,True,Deporte
+537,2020,Matriculado,3.81,28,Arte,Literatura,33,No especificado,False,Deporte
+538,2020,Retirado,4.06,1,Ciencias,Biología,30,Masculino,False,Arte
+539,2019,Retirado,2.34,17,Ciencias Sociales,Literatura,20,No especificado,False,Voluntariado
+540,2021,Matriculado,3.15,13,Ingeniería,Ingeniería de Sistemas,20,Masculino,False,Deporte
+541,2018,Matriculado,3.37,4,Ciencias Sociales,Ingeniería de Sistemas,22,Femenino,False,Academia
+542,2019,Matriculado,3.11,7,Arte,Literatura,28,Masculino,False,Ninguna
+543,2019,Matriculado,2.36,17,Ciencias Sociales,Ciencias Políticas,24,Masculino,True,Voluntariado
+544,2021,Matriculado,3.26,9,Ciencias,Biología,27,Femenino,False,Arte
+545,2018,Matriculado,4.25,4,Ingeniería,Biología,27,Masculino,False,Deporte
+546,2022,Matriculado,2.21,19,Ciencias,Literatura,19,Femenino,False,Academia
+547,2022,Retirado,2.24,1,Ingeniería,Ciencias Políticas,20,Femenino,False,Voluntariado
+548,2019,Matriculado,3.06,10,Arte,Ingeniería de Sistemas,25,Masculino,False,Academia
+549,2018,Matriculado,4.83,4,Ingeniería,Artes Visuales,28,No especificado,True,Academia
+550,2019,Matriculado,4.01,9,Ingeniería,Artes Visuales,30,No especificado,False,Arte
+551,2020,Matriculado,4.04,13,Ingeniería,Literatura,24,Femenino,True,Voluntariado
+552,2019,Matriculado,3.09,14,Ciencias Sociales,Ciencias Políticas,30,No especificado,False,Deporte
+553,2019,Retirado,3.78,10,Ciencias Sociales,Ciencias Políticas,19,No especificado,False,Arte
+554,2022,Matriculado,2.03,6,Arte,Biología,23,Masculino,False,Deporte
+555,2022,Retirado,3.91,16,Ingeniería,Ingeniería de Sistemas,26,Femenino,False,Ninguna
+556,2022,Matriculado,4.74,6,Humanidades,Ciencias Políticas,19,Femenino,False,Academia
+557,2020,Matriculado,3.84,17,Arte,Artes Visuales,33,Masculino,False,Ninguna
+558,2022,Matriculado,4.62,10,Ingeniería,Ingeniería de Sistemas,29,No especificado,False,Academia
+559,2018,Matriculado,4.17,18,Ingeniería,Ingeniería de Sistemas,24,Femenino,False,Arte
+560,2021,Retirado,2.36,27,Ciencias Sociales,Literatura,24,No especificado,False,Deporte
+561,2018,Retirado,4.71,22,Arte,Ciencias Políticas,34,Femenino,True,Deporte
+562,2018,Matriculado,2.2,18,Ingeniería,Literatura,30,Femenino,False,Arte
+563,2022,Matriculado,3.6,3,Ingeniería,Ciencias Políticas,28,Femenino,False,Voluntariado
+564,2021,Matriculado,2.43,20,Arte,Biología,23,Femenino,False,Ninguna
+565,2021,Retirado,2.04,27,Humanidades,Literatura,31,No especificado,False,Ninguna
+566,2021,Matriculado,3.27,21,Arte,Literatura,23,No especificado,False,Deporte
+567,2020,Matriculado,2.89,25,Arte,Artes Visuales,23,No especificado,False,Deporte
+568,2022,Matriculado,3.46,28,Humanidades,Literatura,19,No especificado,False,Deporte
+569,2021,Matriculado,3.73,15,Arte,Ciencias Políticas,32,Masculino,False,Arte
+570,2020,Matriculado,2.13,15,Ingeniería,Artes Visuales,34,Femenino,False,Voluntariado
+571,2019,Matriculado,2.37,4,Arte,Literatura,25,Femenino,False,Ninguna
+572,2019,Retirado,3.68,29,Humanidades,Literatura,22,Femenino,False,Academia
+573,2020,Matriculado,3.03,27,Ciencias,Biología,34,Masculino,False,Arte
+574,2020,Matriculado,4.19,9,Arte,Literatura,18,No especificado,False,Ninguna
+575,2022,Retirado,3.96,27,Ciencias Sociales,Ingeniería de Sistemas,32,Femenino,True,Voluntariado
+576,2022,Matriculado,4.54,26,Ingeniería,Artes Visuales,22,No especificado,False,Arte
+577,2019,Retirado,4.08,19,Ingeniería,Ingeniería de Sistemas,24,No especificado,False,Ninguna
+578,2021,Matriculado,3.29,24,Ciencias Sociales,Artes Visuales,23,Masculino,False,Arte
+579,2019,Matriculado,4.02,28,Ciencias Sociales,Biología,22,Masculino,False,Ninguna
+580,2021,Retirado,2.83,17,Arte,Literatura,27,No especificado,False,Ninguna
+581,2021,Matriculado,2.92,11,Ciencias Sociales,Literatura,32,Femenino,False,Voluntariado
+582,2022,Matriculado,4.37,25,Ciencias,Literatura,27,Femenino,False,Academia
+583,2018,Matriculado,3.34,9,Humanidades,Artes Visuales,33,Masculino,False,Voluntariado
+584,2018,Matriculado,4.4,10,Ciencias Sociales,Literatura,29,Masculino,True,Ninguna
+585,2020,Matriculado,4.47,18,Ciencias Sociales,Ingeniería de Sistemas,18,Masculino,False,Arte
+586,2022,Matriculado,4.57,20,Ciencias,Literatura,33,Masculino,False,Voluntariado
+587,2021,Retirado,4.75,13,Ingeniería,Biología,23,Masculino,False,Academia
+588,2018,Matriculado,3.29,8,Ingeniería,Ingeniería de Sistemas,20,Masculino,False,Ninguna
+589,2021,Matriculado,2.96,7,Arte,Literatura,19,Masculino,False,Voluntariado
+590,2018,Matriculado,3.75,17,Ciencias,Literatura,19,Femenino,False,Voluntariado
+591,2018,Matriculado,3.11,21,Humanidades,Ciencias Políticas,30,Masculino,False,Voluntariado
+592,2018,Matriculado,3.8,23,Humanidades,Artes Visuales,26,Masculino,False,Voluntariado
+593,2022,Retirado,4.12,15,Ciencias,Ingeniería de Sistemas,33,Femenino,False,Arte
+594,2019,Matriculado,4.07,20,Humanidades,Ciencias Políticas,22,Femenino,False,Academia
+595,2021,Matriculado,3.12,15,Ingeniería,Biología,24,No especificado,False,Academia
+596,2022,Matriculado,2.5,1,Humanidades,Artes Visuales,30,Masculino,False,Ninguna
+597,2022,Matriculado,3.29,25,Humanidades,Ingeniería de Sistemas,30,Masculino,False,Deporte
+598,2022,Matriculado,2.43,14,Ciencias,Literatura,24,Masculino,False,Arte
+599,2022,Matriculado,4.67,5,Ciencias,Ingeniería de Sistemas,27,Masculino,False,Ninguna
+600,2022,Retirado,3.04,11,Humanidades,Literatura,32,No especificado,False,Ninguna
+601,2020,Matriculado,2.46,16,Ciencias Sociales,Artes Visuales,23,Femenino,False,Voluntariado
+602,2021,Matriculado,2.08,2,Ciencias,Literatura,22,Femenino,False,Deporte
+603,2022,Matriculado,3.94,8,Arte,Biología,19,Masculino,True,Deporte
+604,2021,Matriculado,3.91,11,Arte,Literatura,32,Masculino,False,Arte
+605,2020,Matriculado,3.02,29,Ingeniería,Biología,33,Masculino,False,Deporte
+606,2020,Matriculado,2.22,18,Humanidades,Artes Visuales,26,No especificado,True,Ninguna
+607,2021,Matriculado,3.23,3,Ciencias Sociales,Artes Visuales,24,No especificado,False,Deporte
+608,2018,Matriculado,2.93,26,Ingeniería,Ingeniería de Sistemas,21,Femenino,False,Deporte
+609,2019,Matriculado,4.03,1,Humanidades,Biología,20,Masculino,False,Academia
+610,2018,Matriculado,3.82,11,Ciencias,Biología,28,Masculino,False,Ninguna
+611,2018,Retirado,3.09,16,Arte,Ciencias Políticas,18,Masculino,True,Deporte
+612,2018,Retirado,2.65,18,Ciencias Sociales,Ciencias Políticas,23,Masculino,False,Deporte
+613,2022,Matriculado,4.96,16,Arte,Ciencias Políticas,28,No especificado,True,Voluntariado
+614,2020,Retirado,3.36,23,Ciencias,Literatura,18,Femenino,False,Deporte
+615,2018,Matriculado,4.06,10,Humanidades,Ciencias Políticas,24,Femenino,True,Deporte
+616,2020,Matriculado,2.42,18,Ciencias,Biología,23,No especificado,False,Academia
+617,2021,Matriculado,3.46,6,Ciencias,Literatura,31,Masculino,False,Ninguna
+618,2019,Matriculado,2.08,19,Arte,Artes Visuales,19,Femenino,False,Arte
+619,2021,Matriculado,3.52,4,Ciencias Sociales,Ingeniería de Sistemas,21,Femenino,False,Ninguna
+620,2021,Retirado,4.89,27,Ciencias,Ciencias Políticas,28,No especificado,False,Voluntariado
+621,2022,Matriculado,3.15,13,Arte,Artes Visuales,32,Masculino,True,Ninguna
+622,2019,Matriculado,2.12,24,Ciencias Sociales,Biología,18,Femenino,False,Deporte
+623,2021,Matriculado,2.09,14,Humanidades,Ingeniería de Sistemas,20,Masculino,False,Voluntariado
+624,2021,Retirado,3.16,3,Humanidades,Artes Visuales,20,Femenino,True,Ninguna
+625,2019,Matriculado,2.48,10,Ingeniería,Ingeniería de Sistemas,24,No especificado,False,Voluntariado
+626,2019,Matriculado,2.07,6,Arte,Ciencias Políticas,18,Masculino,False,Arte
+627,2021,Matriculado,4.27,1,Ciencias Sociales,Biología,28,No especificado,False,Ninguna
+628,2019,Matriculado,3.38,23,Ciencias,Ingeniería de Sistemas,23,Femenino,False,Deporte
+629,2021,Retirado,2.87,24,Humanidades,Artes Visuales,20,No especificado,False,Voluntariado
+630,2021,Retirado,4.7,27,Ciencias Sociales,Ciencias Políticas,19,No especificado,False,Academia
+631,2022,Matriculado,2.35,14,Arte,Ciencias Políticas,29,No especificado,False,Voluntariado
+632,2018,Retirado,4.87,8,Ingeniería,Artes Visuales,27,Femenino,True,Academia
+633,2021,Matriculado,2.94,19,Humanidades,Artes Visuales,22,Masculino,False,Deporte
+634,2020,Retirado,4.67,14,Ciencias Sociales,Ingeniería de Sistemas,26,No especificado,False,Arte
+635,2018,Matriculado,3.81,10,Ciencias Sociales,Literatura,19,Masculino,False,Academia
+636,2018,Matriculado,4.48,17,Ciencias Sociales,Ciencias Políticas,19,Femenino,False,Arte
+637,2018,Matriculado,4.95,9,Arte,Ingeniería de Sistemas,23,Masculino,True,Voluntariado
+638,2022,Matriculado,2.87,29,Arte,Artes Visuales,27,No especificado,False,Deporte
+639,2021,Matriculado,4.88,6,Arte,Ingeniería de Sistemas,29,No especificado,False,Academia
+640,2022,Matriculado,3.17,11,Ciencias,Artes Visuales,21,No especificado,True,Voluntariado
+641,2021,Matriculado,3.16,25,Ciencias Sociales,Biología,34,No especificado,False,Ninguna
+642,2022,Matriculado,3.02,7,Humanidades,Artes Visuales,32,No especificado,True,Voluntariado
+643,2022,Matriculado,3.62,17,Arte,Artes Visuales,23,No especificado,False,Arte
+644,2020,Matriculado,2.46,28,Arte,Artes Visuales,33,Femenino,False,Deporte
+645,2022,Retirado,3.66,28,Ciencias Sociales,Literatura,34,Femenino,False,Deporte
+646,2019,Matriculado,3.63,1,Arte,Artes Visuales,20,Femenino,False,Voluntariado
+647,2020,Matriculado,4.29,22,Ciencias,Ciencias Políticas,27,Masculino,False,Ninguna
+648,2022,Matriculado,4.5,5,Ciencias,Ciencias Políticas,22,Masculino,False,Arte
+649,2018,Retirado,3.32,9,Arte,Ingeniería de Sistemas,31,Femenino,False,Voluntariado
+650,2019,Matriculado,2.91,18,Ciencias Sociales,Literatura,30,Masculino,False,Voluntariado
+651,2019,Matriculado,2.78,24,Ciencias Sociales,Ingeniería de Sistemas,23,Masculino,False,Deporte
+652,2019,Retirado,2.58,27,Ciencias Sociales,Ciencias Políticas,29,No especificado,True,Arte
+653,2020,Retirado,2.17,21,Ingeniería,Ciencias Políticas,25,No especificado,False,Ninguna
+654,2022,Matriculado,3.03,2,Arte,Biología,22,Masculino,False,Deporte
+655,2022,Matriculado,2.81,29,Ciencias Sociales,Artes Visuales,32,Masculino,True,Voluntariado
+656,2018,Matriculado,4.9,26,Ciencias,Ciencias Políticas,33,Femenino,False,Deporte
+657,2018,Retirado,3.67,11,Humanidades,Ingeniería de Sistemas,18,Masculino,False,Deporte
+658,2019,Matriculado,3.04,27,Humanidades,Ingeniería de Sistemas,33,No especificado,True,Academia
+659,2018,Matriculado,3.74,28,Ciencias Sociales,Artes Visuales,22,Masculino,False,Deporte
+660,2020,Retirado,2.42,6,Humanidades,Artes Visuales,20,Femenino,False,Deporte
+661,2022,Matriculado,3.33,26,Humanidades,Biología,32,No especificado,False,Arte
+662,2019,Matriculado,3.88,8,Ingeniería,Literatura,30,No especificado,False,Deporte
+663,2018,Matriculado,3.47,4,Ciencias,Ingeniería de Sistemas,33,No especificado,False,Ninguna
+664,2020,Matriculado,3.21,18,Ciencias,Artes Visuales,28,No especificado,False,Voluntariado
+665,2020,Matriculado,4.98,28,Ingeniería,Ingeniería de Sistemas,19,Masculino,False,Arte
+666,2018,Matriculado,4.64,11,Ingeniería,Artes Visuales,23,Femenino,True,Deporte
+667,2022,Matriculado,3.87,5,Humanidades,Ciencias Políticas,23,Masculino,True,Ninguna
+668,2018,Matriculado,3.71,15,Arte,Ingeniería de Sistemas,31,Masculino,False,Voluntariado
+669,2019,Retirado,3.86,28,Humanidades,Ciencias Políticas,28,No especificado,False,Arte
+670,2018,Matriculado,2.6,18,Ingeniería,Ingeniería de Sistemas,25,Femenino,False,Ninguna
+671,2020,Retirado,3.19,2,Ciencias,Literatura,25,No especificado,True,Deporte
+672,2018,Matriculado,2.12,22,Humanidades,Biología,18,Masculino,False,Academia
+673,2022,Retirado,3.43,11,Arte,Ciencias Políticas,24,Masculino,True,Academia
+674,2021,Matriculado,3.63,26,Humanidades,Artes Visuales,23,No especificado,False,Arte
+675,2018,Matriculado,2.68,25,Ciencias Sociales,Literatura,25,Masculino,True,Ninguna
+676,2022,Matriculado,4.89,13,Humanidades,Ingeniería de Sistemas,25,Masculino,True,Voluntariado
+677,2022,Retirado,4.73,4,Ingeniería,Ciencias Políticas,31,No especificado,False,Ninguna
+678,2020,Matriculado,4.17,22,Ciencias,Ingeniería de Sistemas,33,Masculino,False,Academia
+679,2022,Matriculado,3.6,7,Ciencias,Ingeniería de Sistemas,26,Femenino,False,Arte
+680,2022,Matriculado,4.61,29,Ingeniería,Ingeniería de Sistemas,32,No especificado,False,Deporte
+681,2022,Retirado,2.39,11,Ciencias Sociales,Biología,27,Femenino,False,Ninguna
+682,2022,Matriculado,4.37,22,Ingeniería,Biología,33,Masculino,False,Academia
+683,2019,Matriculado,2.37,24,Humanidades,Artes Visuales,21,Masculino,True,Voluntariado
+684,2019,Matriculado,4.38,4,Ingeniería,Ciencias Políticas,30,No especificado,False,Arte
+685,2020,Retirado,2.83,28,Ingeniería,Literatura,22,Masculino,False,Deporte
+686,2018,Matriculado,4.63,15,Ciencias Sociales,Literatura,24,No especificado,False,Ninguna
+687,2022,Matriculado,4.83,1,Humanidades,Literatura,26,No especificado,True,Voluntariado
+688,2018,Matriculado,2.45,23,Arte,Ingeniería de Sistemas,25,No especificado,False,Deporte
+689,2018,Matriculado,3.39,3,Arte,Biología,33,No especificado,False,Academia
+690,2020,Matriculado,4.94,14,Ciencias,Ciencias Políticas,23,No especificado,False,Academia
+691,2022,Matriculado,3.45,6,Ingeniería,Ingeniería de Sistemas,33,Femenino,True,Voluntariado
+692,2022,Matriculado,4.59,18,Ciencias,Biología,23,No especificado,True,Academia
+693,2021,Matriculado,3.77,25,Ciencias Sociales,Biología,31,Femenino,False,Arte
+694,2018,Matriculado,3.13,1,Arte,Ciencias Políticas,18,Masculino,False,Voluntariado
+695,2018,Matriculado,2.86,6,Ingeniería,Ciencias Políticas,26,No especificado,False,Academia
+696,2019,Matriculado,2.61,6,Ciencias Sociales,Ciencias Políticas,30,Masculino,False,Ninguna
+697,2021,Matriculado,4.29,21,Ciencias Sociales,Ingeniería de Sistemas,34,No especificado,False,Academia
+698,2019,Matriculado,3.16,16,Ingeniería,Artes Visuales,28,Femenino,False,Arte
+699,2019,Matriculado,3.53,29,Ciencias Sociales,Ciencias Políticas,25,Femenino,False,Deporte
+700,2019,Matriculado,3.48,5,Ingeniería,Artes Visuales,22,Femenino,False,Deporte
+701,2020,Matriculado,3.73,17,Ingeniería,Ingeniería de Sistemas,27,Masculino,True,Academia
+702,2020,Matriculado,4.6,10,Humanidades,Artes Visuales,24,No especificado,True,Deporte
+703,2019,Matriculado,4.94,28,Ciencias,Literatura,27,Masculino,False,Academia
+704,2021,Retirado,3.22,21,Ciencias Sociales,Artes Visuales,21,Femenino,True,Arte
+705,2018,Matriculado,4.48,18,Ciencias Sociales,Ciencias Políticas,26,Masculino,False,Deporte
+706,2021,Matriculado,4.29,7,Humanidades,Ingeniería de Sistemas,31,Femenino,True,Ninguna
+707,2022,Matriculado,3.72,3,Humanidades,Ciencias Políticas,19,Femenino,False,Academia
+708,2020,Matriculado,4.87,13,Humanidades,Literatura,26,Femenino,False,Deporte
+709,2018,Matriculado,2.6,15,Arte,Ciencias Políticas,18,No especificado,False,Arte
+710,2018,Matriculado,2.33,20,Arte,Ciencias Políticas,27,No especificado,True,Arte
+711,2022,Matriculado,4.56,19,Arte,Ciencias Políticas,27,Femenino,False,Ninguna
+712,2022,Matriculado,3.32,3,Ingeniería,Biología,20,Masculino,False,Arte
+713,2019,Matriculado,4.54,4,Ciencias Sociales,Literatura,23,Masculino,False,Arte
+714,2020,Matriculado,4.68,5,Ciencias,Ciencias Políticas,23,No especificado,True,Deporte
+715,2020,Retirado,2.19,1,Ingeniería,Ciencias Políticas,19,Femenino,False,Academia
+716,2021,Matriculado,4.65,4,Ciencias Sociales,Ciencias Políticas,19,Masculino,False,Voluntariado
+717,2019,Retirado,3.34,12,Ciencias Sociales,Ingeniería de Sistemas,29,Femenino,False,Arte
+718,2019,Matriculado,3.53,28,Humanidades,Biología,22,Masculino,False,Arte
+719,2019,Matriculado,3.88,27,Humanidades,Ingeniería de Sistemas,24,No especificado,True,Voluntariado
+720,2019,Matriculado,4.78,24,Ingeniería,Biología,33,Femenino,False,Arte
+721,2020,Matriculado,2.06,10,Humanidades,Ciencias Políticas,18,Femenino,False,Deporte
+722,2020,Retirado,3.43,23,Ciencias Sociales,Literatura,18,Masculino,False,Deporte
+723,2019,Matriculado,4.06,25,Humanidades,Artes Visuales,34,Masculino,False,Voluntariado
+724,2021,Retirado,4.17,21,Arte,Artes Visuales,18,Masculino,True,Arte
+725,2018,Matriculado,4.08,29,Humanidades,Ciencias Políticas,30,Femenino,False,Arte
+726,2018,Retirado,2.4,26,Ciencias Sociales,Ingeniería de Sistemas,26,No especificado,True,Academia
+727,2021,Matriculado,2.9,20,Ingeniería,Literatura,32,No especificado,False,Arte
+728,2019,Matriculado,3.08,24,Ciencias,Biología,20,Masculino,False,Deporte
+729,2020,Matriculado,4.41,25,Humanidades,Ciencias Políticas,31,No especificado,False,Ninguna
+730,2018,Matriculado,2.84,13,Ciencias Sociales,Literatura,28,Masculino,False,Ninguna
+731,2022,Matriculado,2.63,23,Ciencias,Literatura,29,No especificado,False,Ninguna
+732,2022,Matriculado,4.87,14,Ciencias,Biología,30,Femenino,False,Ninguna
+733,2021,Retirado,2.03,23,Arte,Literatura,30,Masculino,False,Arte
+734,2019,Matriculado,4.99,5,Ciencias,Ingeniería de Sistemas,18,No especificado,True,Arte
+735,2018,Matriculado,4.03,4,Ciencias Sociales,Ingeniería de Sistemas,27,Femenino,True,Academia
+736,2019,Matriculado,4.49,14,Ciencias Sociales,Ingeniería de Sistemas,20,No especificado,False,Arte
+737,2018,Matriculado,2.88,10,Humanidades,Literatura,21,Femenino,False,Ninguna
+738,2021,Matriculado,2.04,17,Humanidades,Ingeniería de Sistemas,33,Femenino,True,Voluntariado
+739,2021,Matriculado,4.21,10,Humanidades,Biología,25,No especificado,False,Voluntariado
+740,2022,Matriculado,4.5,26,Ciencias,Literatura,33,No especificado,False,Deporte
+741,2019,Matriculado,4.22,7,Ciencias,Artes Visuales,34,Femenino,False,Deporte
+742,2022,Matriculado,2.43,16,Arte,Literatura,32,Femenino,False,Arte
+743,2019,Matriculado,4.26,1,Humanidades,Biología,33,Femenino,False,Voluntariado
+744,2022,Matriculado,4.31,17,Ingeniería,Artes Visuales,32,Masculino,False,Ninguna
+745,2020,Matriculado,3.98,21,Arte,Literatura,19,Femenino,False,Ninguna
+746,2020,Matriculado,4.3,29,Ingeniería,Ingeniería de Sistemas,28,Masculino,True,Ninguna
+747,2020,Matriculado,4.54,9,Ciencias,Ciencias Políticas,18,Femenino,False,Arte
+748,2020,Matriculado,3.84,6,Arte,Ciencias Políticas,32,Masculino,False,Arte
+749,2018,Retirado,2.27,19,Arte,Ingeniería de Sistemas,21,Femenino,False,Academia
+750,2020,Matriculado,3.46,13,Ciencias Sociales,Ciencias Políticas,28,Femenino,False,Ninguna
+751,2021,Retirado,2.23,3,Ciencias,Ciencias Políticas,22,Femenino,False,Ninguna
+752,2021,Matriculado,3.22,7,Ciencias,Ingeniería de Sistemas,20,No especificado,False,Arte
+753,2018,Matriculado,3.22,22,Arte,Ingeniería de Sistemas,30,No especificado,False,Arte
+754,2020,Matriculado,2.2,9,Ciencias,Literatura,27,Femenino,False,Academia
+755,2020,Retirado,3.05,22,Arte,Literatura,28,Masculino,False,Academia
+756,2020,Matriculado,2.33,5,Ciencias Sociales,Ingeniería de Sistemas,19,Masculino,False,Deporte
+757,2022,Retirado,4.42,10,Arte,Biología,24,Femenino,False,Voluntariado
+758,2019,Retirado,4.84,23,Ciencias,Ciencias Políticas,26,No especificado,False,Ninguna
+759,2022,Matriculado,2.22,17,Ciencias,Literatura,27,Masculino,False,Ninguna
+760,2019,Matriculado,4.87,12,Arte,Ciencias Políticas,24,No especificado,False,Academia
+761,2020,Matriculado,3.57,23,Arte,Artes Visuales,24,Masculino,True,Academia
+762,2020,Matriculado,2.9,16,Arte,Ingeniería de Sistemas,20,Femenino,False,Deporte
+763,2022,Retirado,2.23,3,Humanidades,Biología,29,No especificado,False,Voluntariado
+764,2022,Retirado,3.5,25,Ciencias,Artes Visuales,24,Masculino,True,Deporte
+765,2019,Matriculado,4.38,22,Ciencias,Artes Visuales,34,Femenino,False,Voluntariado
+766,2021,Matriculado,4.12,9,Humanidades,Artes Visuales,18,Femenino,False,Ninguna
+767,2019,Matriculado,2.15,29,Arte,Ingeniería de Sistemas,22,Femenino,False,Deporte
+768,2022,Matriculado,2.22,15,Ciencias Sociales,Literatura,33,No especificado,True,Academia
+769,2022,Retirado,3.21,5,Arte,Ingeniería de Sistemas,32,No especificado,False,Deporte
+770,2018,Matriculado,2.89,23,Arte,Literatura,19,Femenino,False,Deporte
+771,2022,Matriculado,2.7,13,Humanidades,Artes Visuales,26,No especificado,False,Ninguna
+772,2018,Matriculado,2.84,14,Ciencias,Artes Visuales,24,Masculino,False,Academia
+773,2021,Matriculado,4.41,20,Arte,Biología,21,Femenino,False,Academia
+774,2019,Matriculado,4.79,15,Ciencias,Literatura,21,Femenino,False,Arte
+775,2019,Matriculado,3.22,16,Ingeniería,Artes Visuales,30,No especificado,False,Arte
+776,2018,Matriculado,4.72,23,Ciencias,Ciencias Políticas,18,Femenino,False,Arte
+777,2019,Matriculado,2.96,13,Ciencias Sociales,Biología,20,Masculino,False,Ninguna
+778,2022,Retirado,3.43,17,Ciencias Sociales,Ingeniería de Sistemas,33,No especificado,True,Deporte
+779,2020,Matriculado,2.68,23,Arte,Biología,21,No especificado,False,Academia
+780,2018,Matriculado,3.92,8,Ciencias,Ciencias Políticas,33,Femenino,False,Academia
+781,2019,Matriculado,4.94,21,Arte,Literatura,18,Femenino,False,Deporte
+782,2018,Matriculado,3.81,2,Humanidades,Ingeniería de Sistemas,22,Femenino,True,Academia
+783,2018,Matriculado,3.07,5,Ciencias Sociales,Ingeniería de Sistemas,28,No especificado,False,Deporte
+784,2020,Matriculado,3.94,6,Arte,Literatura,30,Femenino,True,Ninguna
+785,2022,Matriculado,2.37,12,Humanidades,Biología,22,Masculino,True,Ninguna
+786,2018,Matriculado,4.67,18,Arte,Artes Visuales,21,Femenino,False,Ninguna
+787,2019,Matriculado,3.51,22,Ciencias,Biología,21,Femenino,False,Deporte
+788,2021,Matriculado,3.35,22,Ciencias,Ciencias Políticas,21,No especificado,False,Deporte
+789,2018,Retirado,3.76,1,Ciencias,Artes Visuales,21,Femenino,True,Voluntariado
+790,2018,Matriculado,3.87,17,Ciencias,Biología,33,No especificado,False,Academia
+791,2020,Matriculado,2.22,11,Ingeniería,Literatura,26,Femenino,True,Academia
+792,2022,Matriculado,4.05,10,Humanidades,Ciencias Políticas,19,Masculino,False,Voluntariado
+793,2021,Matriculado,2.73,19,Humanidades,Ciencias Políticas,21,Masculino,False,Voluntariado
+794,2019,Matriculado,4.14,14,Ciencias,Ciencias Políticas,29,No especificado,False,Ninguna
+795,2021,Matriculado,4.47,26,Ingeniería,Artes Visuales,24,No especificado,False,Voluntariado
+796,2019,Retirado,4.41,10,Ciencias,Ingeniería de Sistemas,32,Femenino,True,Deporte
+797,2022,Matriculado,3.66,15,Ingeniería,Artes Visuales,24,Femenino,False,Arte
+798,2019,Matriculado,3.56,28,Ciencias,Biología,34,Masculino,False,Deporte
+799,2020,Matriculado,2.43,19,Ciencias Sociales,Ingeniería de Sistemas,33,Femenino,False,Voluntariado
+800,2020,Matriculado,4.33,4,Ciencias Sociales,Biología,26,Masculino,False,Academia
+801,2020,Matriculado,2.81,2,Arte,Ingeniería de Sistemas,31,No especificado,True,Deporte
+802,2020,Matriculado,3.49,9,Ciencias,Artes Visuales,34,Femenino,False,Academia
+803,2021,Matriculado,2.85,10,Humanidades,Ciencias Políticas,22,No especificado,False,Deporte
+804,2022,Retirado,2.4,28,Arte,Literatura,19,Femenino,False,Academia
+805,2019,Matriculado,3.89,11,Ciencias Sociales,Ciencias Políticas,33,Masculino,True,Deporte
+806,2019,Matriculado,2.16,14,Ciencias,Artes Visuales,31,No especificado,True,Academia
+807,2020,Matriculado,4.25,7,Arte,Ingeniería de Sistemas,31,No especificado,False,Arte
+808,2020,Matriculado,2.95,23,Ciencias,Ciencias Políticas,18,Femenino,False,Ninguna
+809,2018,Matriculado,2.0,15,Ciencias Sociales,Artes Visuales,20,No especificado,False,Deporte
+810,2022,Matriculado,3.53,22,Arte,Biología,24,Masculino,True,Arte
+811,2021,Matriculado,2.14,19,Ciencias Sociales,Literatura,32,No especificado,False,Ninguna
+812,2019,Retirado,2.83,22,Ingeniería,Ciencias Políticas,19,No especificado,False,Deporte
+813,2018,Matriculado,4.12,15,Ciencias Sociales,Ingeniería de Sistemas,26,Femenino,False,Arte
+814,2018,Matriculado,2.19,28,Ciencias,Biología,22,No especificado,False,Arte
+815,2019,Retirado,4.52,24,Humanidades,Artes Visuales,33,Femenino,False,Arte
+816,2021,Matriculado,2.01,8,Ciencias Sociales,Literatura,21,Femenino,False,Voluntariado
+817,2018,Matriculado,2.74,11,Humanidades,Ingeniería de Sistemas,29,No especificado,False,Academia
+818,2018,Matriculado,4.22,29,Ingeniería,Artes Visuales,24,Masculino,True,Ninguna
+819,2022,Matriculado,2.95,9,Arte,Artes Visuales,31,Femenino,False,Academia
+820,2021,Matriculado,2.31,15,Arte,Ciencias Políticas,29,No especificado,False,Academia
+821,2018,Retirado,3.08,1,Humanidades,Ciencias Políticas,20,Femenino,False,Academia
+822,2021,Matriculado,2.81,1,Arte,Ingeniería de Sistemas,22,Masculino,False,Arte
+823,2019,Matriculado,4.53,19,Ciencias Sociales,Artes Visuales,34,Masculino,False,Academia
+824,2020,Matriculado,2.94,3,Humanidades,Ciencias Políticas,27,Femenino,False,Voluntariado
+825,2018,Matriculado,4.37,10,Ciencias,Literatura,27,Masculino,False,Deporte
+826,2022,Matriculado,4.68,8,Ciencias Sociales,Literatura,28,No especificado,False,Arte
+827,2019,Matriculado,3.3,15,Ciencias Sociales,Artes Visuales,34,No especificado,True,Ninguna
+828,2021,Retirado,4.73,10,Ciencias Sociales,Ciencias Políticas,22,Femenino,True,Deporte
+829,2019,Matriculado,3.13,1,Ciencias,Ingeniería de Sistemas,30,Masculino,False,Deporte
+830,2018,Matriculado,4.89,29,Ingeniería,Ingeniería de Sistemas,27,No especificado,True,Deporte
+831,2021,Matriculado,2.27,18,Arte,Ingeniería de Sistemas,26,No especificado,False,Academia
+832,2020,Matriculado,4.06,2,Humanidades,Literatura,34,No especificado,False,Academia
+833,2019,Matriculado,3.48,19,Ingeniería,Ciencias Políticas,18,Femenino,False,Arte
+834,2018,Matriculado,3.16,13,Humanidades,Ciencias Políticas,21,Femenino,False,Academia
+835,2022,Matriculado,3.9,22,Arte,Literatura,21,No especificado,False,Academia
+836,2021,Matriculado,4.11,1,Ciencias,Ingeniería de Sistemas,26,No especificado,True,Academia
+837,2019,Matriculado,2.01,2,Ciencias Sociales,Ingeniería de Sistemas,31,Masculino,False,Arte
+838,2019,Matriculado,2.5,29,Ciencias Sociales,Artes Visuales,32,Masculino,False,Arte
+839,2020,Retirado,4.14,16,Ciencias,Biología,23,Masculino,False,Voluntariado
+840,2020,Matriculado,4.0,15,Ingeniería,Ciencias Políticas,27,Femenino,False,Voluntariado
+841,2022,Matriculado,4.9,13,Ingeniería,Ciencias Políticas,32,No especificado,False,Voluntariado
+842,2022,Matriculado,4.28,16,Humanidades,Ciencias Políticas,21,Femenino,True,Voluntariado
+843,2018,Retirado,4.85,17,Ciencias,Biología,34,No especificado,False,Deporte
+844,2018,Retirado,4.11,21,Ingeniería,Artes Visuales,29,Masculino,True,Deporte
+845,2022,Matriculado,2.89,29,Ciencias,Biología,24,Masculino,False,Voluntariado
+846,2022,Retirado,2.32,29,Arte,Ingeniería de Sistemas,33,Masculino,False,Voluntariado
+847,2021,Matriculado,4.35,7,Ciencias Sociales,Ingeniería de Sistemas,28,Masculino,False,Ninguna
+848,2020,Matriculado,3.93,24,Ciencias Sociales,Ciencias Políticas,31,No especificado,False,Deporte
+849,2018,Matriculado,2.14,26,Ciencias Sociales,Literatura,20,Masculino,True,Ninguna
+850,2020,Matriculado,3.08,17,Ciencias,Ciencias Políticas,27,No especificado,False,Ninguna
+851,2020,Matriculado,4.87,7,Ciencias,Literatura,23,No especificado,True,Academia
+852,2022,Retirado,3.5,13,Humanidades,Biología,30,Femenino,True,Arte
+853,2021,Matriculado,3.3,5,Ciencias Sociales,Ingeniería de Sistemas,27,Masculino,False,Deporte
+854,2019,Matriculado,3.37,26,Humanidades,Literatura,33,Masculino,False,Voluntariado
+855,2021,Matriculado,2.63,17,Ciencias Sociales,Biología,23,Femenino,False,Voluntariado
+856,2021,Matriculado,3.11,3,Humanidades,Ingeniería de Sistemas,30,No especificado,False,Arte
+857,2020,Matriculado,3.11,7,Humanidades,Literatura,21,Masculino,False,Deporte
+858,2021,Matriculado,2.16,26,Arte,Ciencias Políticas,31,No especificado,False,Voluntariado
+859,2018,Matriculado,4.3,17,Humanidades,Ciencias Políticas,18,Femenino,True,Voluntariado
+860,2020,Retirado,3.25,7,Ciencias,Ciencias Políticas,22,No especificado,False,Academia
+861,2018,Matriculado,4.47,21,Humanidades,Biología,25,Masculino,False,Ninguna
+862,2019,Matriculado,4.55,1,Ciencias Sociales,Ciencias Políticas,29,No especificado,False,Voluntariado
+863,2020,Matriculado,2.64,17,Humanidades,Artes Visuales,19,No especificado,False,Deporte
+864,2019,Matriculado,3.97,17,Ingeniería,Ingeniería de Sistemas,29,Masculino,False,Arte
+865,2020,Matriculado,3.42,11,Ciencias Sociales,Biología,22,Masculino,False,Academia
+866,2022,Matriculado,4.64,25,Ingeniería,Ciencias Políticas,22,No especificado,False,Deporte
+867,2021,Retirado,2.65,27,Ciencias Sociales,Ingeniería de Sistemas,30,No especificado,False,Academia
+868,2022,Matriculado,4.03,29,Ciencias,Literatura,26,Femenino,False,Ninguna
+869,2019,Retirado,3.82,3,Ciencias,Ciencias Políticas,27,Masculino,False,Voluntariado
+870,2021,Retirado,2.89,15,Ciencias,Ingeniería de Sistemas,18,No especificado,False,Deporte
+871,2020,Matriculado,2.41,29,Ingeniería,Artes Visuales,20,Masculino,False,Arte
+872,2021,Retirado,3.95,21,Arte,Literatura,29,Femenino,False,Ninguna
+873,2018,Matriculado,4.22,11,Ciencias Sociales,Artes Visuales,20,No especificado,False,Ninguna
+874,2021,Retirado,2.95,26,Ciencias,Ingeniería de Sistemas,26,No especificado,False,Academia
+875,2018,Matriculado,3.93,28,Ciencias Sociales,Artes Visuales,19,No especificado,False,Ninguna
+876,2021,Retirado,3.19,16,Ingeniería,Ingeniería de Sistemas,20,Masculino,False,Deporte
+877,2018,Retirado,4.14,25,Arte,Ingeniería de Sistemas,31,Femenino,False,Academia
+878,2019,Retirado,2.6,22,Ingeniería,Artes Visuales,21,Masculino,False,Ninguna
+879,2022,Matriculado,4.67,28,Ciencias Sociales,Ingeniería de Sistemas,30,No especificado,False,Arte
+880,2020,Matriculado,2.86,9,Arte,Ciencias Políticas,24,Femenino,False,Deporte
+881,2021,Matriculado,3.1,24,Arte,Ingeniería de Sistemas,29,No especificado,True,Arte
+882,2022,Matriculado,2.17,24,Ingeniería,Biología,20,No especificado,False,Arte
+883,2020,Matriculado,2.33,1,Ciencias,Ingeniería de Sistemas,26,Masculino,False,Academia
+884,2020,Matriculado,3.55,29,Ciencias Sociales,Biología,19,No especificado,False,Voluntariado
+885,2018,Matriculado,2.8,25,Humanidades,Ingeniería de Sistemas,26,Femenino,False,Academia
+886,2019,Retirado,4.51,22,Humanidades,Ingeniería de Sistemas,29,No especificado,False,Deporte
+887,2019,Matriculado,2.04,16,Ingeniería,Artes Visuales,29,No especificado,True,Deporte
+888,2022,Retirado,3.14,9,Ciencias Sociales,Ciencias Políticas,32,Masculino,False,Academia
+889,2019,Matriculado,3.01,19,Ciencias Sociales,Ciencias Políticas,19,Femenino,False,Voluntariado
+890,2021,Retirado,2.06,12,Ingeniería,Literatura,30,Masculino,False,Academia
+891,2019,Retirado,2.37,19,Ciencias Sociales,Artes Visuales,31,No especificado,True,Deporte
+892,2022,Matriculado,3.24,22,Ciencias,Artes Visuales,22,Masculino,False,Voluntariado
+893,2019,Matriculado,3.48,9,Ingeniería,Ciencias Políticas,27,Masculino,False,Deporte
+894,2021,Matriculado,3.21,7,Ciencias,Artes Visuales,29,Masculino,False,Voluntariado
+895,2018,Matriculado,3.59,14,Ciencias Sociales,Ciencias Políticas,27,Masculino,False,Voluntariado
+896,2022,Matriculado,3.79,29,Ingeniería,Artes Visuales,28,No especificado,False,Academia
+897,2018,Matriculado,2.03,19,Ciencias Sociales,Ingeniería de Sistemas,19,No especificado,False,Academia
+898,2018,Matriculado,3.39,19,Ingeniería,Ciencias Políticas,22,Femenino,False,Academia
+899,2018,Matriculado,4.89,2,Ciencias Sociales,Ciencias Políticas,24,Masculino,False,Voluntariado
+900,2020,Matriculado,3.56,9,Ciencias,Biología,23,Masculino,True,Voluntariado
+901,2020,Matriculado,4.03,13,Ciencias,Artes Visuales,20,Femenino,False,Deporte
+902,2018,Matriculado,2.94,15,Ciencias Sociales,Artes Visuales,30,Masculino,False,Arte
+903,2022,Retirado,4.32,3,Ingeniería,Ciencias Políticas,20,Femenino,False,Academia
+904,2021,Matriculado,4.32,11,Humanidades,Ingeniería de Sistemas,23,No especificado,False,Deporte
+905,2021,Retirado,3.56,21,Ciencias,Ingeniería de Sistemas,28,Femenino,True,Deporte
+906,2019,Matriculado,4.93,14,Ciencias,Ingeniería de Sistemas,34,Masculino,True,Ninguna
+907,2022,Matriculado,2.38,25,Humanidades,Artes Visuales,27,Femenino,False,Academia
+908,2020,Matriculado,2.05,8,Ciencias Sociales,Biología,29,No especificado,False,Deporte
+909,2018,Matriculado,4.31,18,Ingeniería,Ciencias Políticas,34,Masculino,False,Ninguna
+910,2019,Matriculado,4.42,19,Ciencias Sociales,Literatura,21,No especificado,False,Academia
+911,2021,Matriculado,2.36,16,Arte,Biología,19,No especificado,False,Voluntariado
+912,2020,Matriculado,2.8,2,Ciencias,Literatura,28,Femenino,True,Ninguna
+913,2020,Matriculado,2.05,8,Arte,Biología,24,No especificado,True,Voluntariado
+914,2018,Matriculado,2.88,22,Ciencias,Ingeniería de Sistemas,19,Masculino,False,Arte
+915,2021,Matriculado,4.32,6,Ciencias,Artes Visuales,21,No especificado,False,Arte
+916,2022,Matriculado,3.55,12,Arte,Literatura,25,No especificado,False,Arte
+917,2020,Matriculado,3.04,15,Arte,Biología,31,Femenino,False,Arte
+918,2018,Matriculado,3.12,25,Ciencias Sociales,Artes Visuales,29,No especificado,False,Deporte
+919,2022,Matriculado,2.0,8,Arte,Literatura,28,Femenino,False,Arte
+920,2021,Retirado,2.9,4,Ciencias Sociales,Ciencias Políticas,25,Femenino,False,Deporte
+921,2020,Matriculado,3.94,15,Ciencias Sociales,Biología,19,Masculino,False,Deporte
+922,2022,Matriculado,4.92,28,Ciencias Sociales,Ciencias Políticas,32,Masculino,True,Academia
+923,2022,Retirado,4.54,20,Ciencias,Ingeniería de Sistemas,26,Masculino,True,Deporte
+924,2022,Matriculado,2.07,25,Ciencias,Ciencias Políticas,25,Masculino,False,Deporte
+925,2020,Matriculado,4.7,17,Arte,Ciencias Políticas,22,Femenino,False,Arte
+926,2020,Matriculado,4.35,13,Ciencias,Biología,28,No especificado,False,Deporte
+927,2019,Matriculado,4.34,18,Arte,Ingeniería de Sistemas,32,Masculino,False,Voluntariado
+928,2021,Matriculado,3.37,2,Ciencias,Ciencias Políticas,25,Masculino,False,Arte
+929,2018,Matriculado,3.19,13,Ingeniería,Artes Visuales,25,Masculino,True,Ninguna
+930,2022,Matriculado,2.91,13,Ingeniería,Literatura,27,No especificado,False,Arte
+931,2019,Matriculado,2.2,22,Arte,Ciencias Políticas,24,Masculino,False,Deporte
+932,2018,Retirado,2.68,15,Ciencias,Ingeniería de Sistemas,26,No especificado,False,Voluntariado
+933,2019,Retirado,2.74,20,Ciencias,Ciencias Políticas,18,Femenino,False,Arte
+934,2020,Matriculado,3.45,29,Ciencias Sociales,Literatura,22,Femenino,False,Voluntariado
+935,2022,Matriculado,4.24,27,Humanidades,Ingeniería de Sistemas,18,Femenino,False,Ninguna
+936,2018,Matriculado,3.42,10,Arte,Biología,32,No especificado,False,Ninguna
+937,2018,Matriculado,2.17,29,Humanidades,Ingeniería de Sistemas,33,Masculino,False,Academia
+938,2018,Matriculado,4.87,3,Humanidades,Biología,24,Masculino,False,Academia
+939,2018,Matriculado,4.83,19,Arte,Ingeniería de Sistemas,29,Masculino,False,Arte
+940,2018,Retirado,4.36,3,Ciencias,Literatura,25,Masculino,True,Academia
+941,2019,Matriculado,4.97,22,Arte,Literatura,22,Masculino,True,Voluntariado
+942,2022,Matriculado,3.63,14,Humanidades,Ingeniería de Sistemas,27,No especificado,False,Academia
+943,2020,Matriculado,4.89,8,Ciencias,Ciencias Políticas,22,Femenino,False,Voluntariado
+944,2020,Matriculado,2.23,27,Ingeniería,Literatura,34,Masculino,False,Academia
+945,2020,Retirado,3.1,23,Arte,Biología,22,Femenino,False,Academia
+946,2020,Matriculado,2.68,4,Arte,Biología,32,No especificado,False,Academia
+947,2019,Matriculado,2.59,27,Ciencias,Artes Visuales,30,No especificado,False,Deporte
+948,2021,Matriculado,2.42,28,Ingeniería,Biología,18,Masculino,False,Deporte
+949,2022,Matriculado,3.87,20,Ingeniería,Artes Visuales,28,No especificado,False,Academia
+950,2018,Matriculado,4.34,11,Ciencias,Ingeniería de Sistemas,18,Femenino,True,Voluntariado
+951,2021,Matriculado,3.73,26,Ciencias Sociales,Ingeniería de Sistemas,28,Masculino,True,Arte
+952,2020,Matriculado,2.44,11,Arte,Ingeniería de Sistemas,33,Masculino,False,Ninguna
+953,2021,Matriculado,4.43,27,Arte,Ciencias Políticas,30,Femenino,False,Deporte
+954,2022,Matriculado,3.91,11,Humanidades,Ciencias Políticas,24,Masculino,True,Academia
+955,2018,Matriculado,3.16,2,Ciencias,Artes Visuales,18,Masculino,True,Ninguna
+956,2018,Matriculado,4.02,17,Humanidades,Biología,33,Femenino,False,Deporte
+957,2022,Matriculado,2.78,9,Humanidades,Biología,18,Masculino,False,Arte
+958,2022,Matriculado,3.04,28,Ingeniería,Ingeniería de Sistemas,34,Masculino,False,Voluntariado
+959,2020,Retirado,4.75,28,Arte,Literatura,23,Femenino,False,Academia
+960,2018,Retirado,2.87,2,Humanidades,Ciencias Políticas,19,No especificado,False,Arte
+961,2021,Retirado,3.41,29,Ingeniería,Ciencias Políticas,34,Femenino,False,Deporte
+962,2019,Matriculado,4.67,24,Ciencias,Ingeniería de Sistemas,23,Masculino,False,Academia
+963,2019,Matriculado,4.12,15,Humanidades,Ciencias Políticas,31,Femenino,False,Ninguna
+964,2022,Matriculado,2.19,16,Arte,Ingeniería de Sistemas,23,Masculino,False,Voluntariado
+965,2020,Matriculado,2.44,25,Humanidades,Artes Visuales,27,Masculino,False,Deporte
+966,2019,Retirado,2.02,4,Ciencias,Biología,26,Femenino,True,Voluntariado
+967,2018,Matriculado,3.89,8,Humanidades,Literatura,25,Masculino,False,Academia
+968,2022,Matriculado,3.34,9,Arte,Biología,27,No especificado,False,Arte
+969,2021,Matriculado,2.4,26,Ingeniería,Biología,34,Masculino,False,Voluntariado
+970,2022,Matriculado,4.87,26,Arte,Artes Visuales,23,Femenino,False,Ninguna
+971,2021,Matriculado,3.59,5,Ingeniería,Ciencias Políticas,31,No especificado,False,Deporte
+972,2022,Matriculado,2.73,16,Ciencias Sociales,Literatura,23,No especificado,True,Ninguna
+973,2022,Matriculado,3.5,13,Arte,Ciencias Políticas,24,Masculino,False,Voluntariado
+974,2022,Matriculado,4.04,7,Arte,Biología,29,Femenino,False,Arte
+975,2021,Matriculado,2.23,26,Ciencias,Ingeniería de Sistemas,20,Masculino,False,Arte
+976,2021,Matriculado,2.82,20,Humanidades,Biología,31,Masculino,False,Ninguna
+977,2022,Retirado,4.42,17,Ingeniería,Ciencias Políticas,33,Femenino,True,Academia
+978,2019,Retirado,3.38,3,Ingeniería,Biología,24,Femenino,False,Academia
+979,2020,Matriculado,3.64,5,Ciencias,Ingeniería de Sistemas,25,Masculino,True,Arte
+980,2020,Matriculado,3.3,19,Ciencias,Artes Visuales,30,No especificado,False,Ninguna
+981,2020,Matriculado,2.13,12,Humanidades,Ciencias Políticas,26,Masculino,False,Ninguna
+982,2021,Matriculado,2.5,29,Humanidades,Biología,27,No especificado,True,Ninguna
+983,2021,Matriculado,3.34,27,Arte,Ciencias Políticas,26,Masculino,False,Voluntariado
+984,2019,Retirado,2.63,7,Ciencias Sociales,Artes Visuales,32,Femenino,True,Academia
+985,2020,Matriculado,2.15,28,Humanidades,Biología,19,No especificado,True,Academia
+986,2020,Retirado,4.53,9,Ciencias,Biología,30,Femenino,False,Voluntariado
+987,2022,Matriculado,4.94,28,Humanidades,Ciencias Políticas,19,Femenino,False,Deporte
+988,2021,Matriculado,4.38,6,Ingeniería,Ciencias Políticas,19,Femenino,False,Voluntariado
+989,2020,Matriculado,4.56,29,Ciencias Sociales,Ingeniería de Sistemas,20,Femenino,False,Ninguna
+990,2019,Retirado,2.73,26,Arte,Artes Visuales,23,Femenino,False,Voluntariado
+991,2019,Matriculado,4.88,17,Ingeniería,Ingeniería de Sistemas,20,Masculino,False,Ninguna
+992,2020,Matriculado,2.59,16,Ingeniería,Biología,27,No especificado,True,Arte
+993,2021,Matriculado,4.85,23,Ciencias Sociales,Ciencias Políticas,23,Masculino,True,Ninguna
+994,2019,Matriculado,4.98,3,Arte,Biología,33,Masculino,False,Academia
+995,2022,Matriculado,4.14,21,Ciencias,Biología,34,Masculino,False,Voluntariado
+996,2019,Matriculado,4.94,26,Arte,Literatura,20,Femenino,False,Ninguna
+997,2018,Matriculado,3.71,4,Humanidades,Literatura,24,Masculino,False,Deporte
+998,2018,Matriculado,2.78,10,Ingeniería,Biología,26,No especificado,False,Arte
+999,2021,Matriculado,3.31,5,Humanidades,Ciencias Políticas,29,Masculino,True,Deporte
+1000,2020,Matriculado,3.78,21,Ciencias,Biología,22,Femenino,True,Deporte
